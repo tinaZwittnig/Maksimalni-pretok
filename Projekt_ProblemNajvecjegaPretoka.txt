@@ -1,0 +1,10 @@
+Opis: Načrtajte in implementirajte razčlenjevalnik, ki za dane vhodne podatke izdela datotečno formulacijo optimizacijskega problema največjega pretoka. Dobljeno datotečno formulacijo preverite z orodjem lp_solve, primer vhodnih podatkov je priložen (Veliki M je 100, oblike datotek so skladne s knjižnico Python Pandas, npr. matriko A preberete z pandas.read_csv('matA.csv').to_numpy()). Za vizualizacijo grafa in rezultata lahko uporabite orodje GraphViz. Priporočen programski jezik je Python 3. Vhodni podatki so v priloženih datotekah. 
+
+Vhodni podatki: matrika sosednosti grafa A, matrika kapacitet C, vozlišče s, vozlišče t
+
+Rezultat: Datoteka NajvecjiPretok.lp
+
+
+
+
+

@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<markers>
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Italija ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='trs' globalLoc="it" lat="45.6578861" lng="13.8294667" html="&lt;a href='http://wiki.arnes.si:8080/display/hw/Trst'&gt;Vozlišče Trst&lt;/a&gt; Area di Ricerca (Area Science Park Trieste), Padriciano 99, 34149 Trieste, Italy" label="Trieste"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Slovenija ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='ble' globalLoc="sl" lat="46.3588416" lng="14.1161111" html="Vozlišče Bled, RTP Bled, Cankarjeva 50, Bled" label="Bled"/>
+	<marker id='ber' globalLoc="sl" lat="46.0907611" lng="14.6118972" html="Optični delilnik RTP Beričevo, Beričevo 70, Beričevo" label="Beričevo"/>
+	<marker id='cel' globalLoc="sl" lat="46.2333055" lng="15.2653138" html="Vozlišče Celje, Ekonomska šola Celje, Kosovelova ulica 4, Celje" label="Celje"/>
+	<marker id='crn' globalLoc="sl" lat="45.5658806" lng="15.1890556" html="Vozlišče Črnomelj, Srednja šola Črnomelj, Kidričeva ulica 18A, Črnomelj" label="Črnomelj"/>
+	<marker id='bre' globalLoc="sl" lat="45.9074417" lng="15.6049083" html="Vozlišče Brežice, Ekonomska in trgovska šola Brežice, Bizeljska cesta 45, Brežice" label="Brežice"/>
+	<marker id='dra' globalLoc="sl" lat="46.5851500" lng="15.0204361" html="Vozlišče Dravograd, Dravske elektrarne Maribor d.o.o., Elektrarna Dravograd, Meža 133, Dravograd" label="Dravograd"/>
+	<marker id='grad' globalLoc="sl" lat="46.6744611" lng="15.9902806" html="Vozlišče Gornja Radgona, Osnovna šola Gornja Radgona, Prežihova 1, Gornja Radgona" label="Gornja Radgona"/>
+	<marker id='gro-os' globalLoc="sl" lat="45.9532028" lng="14.6587361" html="vozlišče Grosuplje, Osnovna šola Louisa Adamiča Grosuplje, Tovarniška cesta 14, Grosuplje" label="Grosuplje"/>
+	<marker id='idr' globalLoc="sl" lat="46.0009417" lng="14.0214722" html="vozlišče Idrija, Občina Idrija, Mestni trg 2, Idrija" label="Idrija"/>
+	<marker id='izo' globalLoc="sl" lat="45.5353142" lng="13.6582803" html="Vozlišče Izola, Srednja šola Izola, Prekomorskih brigad 7, Izola" label="Izola"/>
+	<marker id='jes' globalLoc="sl" lat="46.4359472" lng="14.0604444" html="Vozlišče Jesenice, Gimnazija Jesenice, Trg Toneta Čufarja 1, Jesenice" label="Jesenice"/>
+	<marker id='kam' globalLoc="sl" lat="46.2210883" lng="14.6113014" html="Vozlišče Kamnik, Gimnazija in srednja šola Rudolfa Maistra Kamnik, Novi trg 41 A, Kamnik" label="Kamnik"/>
+	<marker id='koc' globalLoc="sl" lat="45.6410780" lng="14.8578860" html="Vozlišče Kočevje, Gimnazija in srednja šola Kočevje, Ljubljanska cesta 12, Kočevje" label="Kočevje"/>
+	<marker id='kop' globalLoc="sl" lat="45.5479667" lng="13.7291639" html="Vozlišče Koper, Univerza na Primorskem, Titov trg 4, Koper" label="Koper"/>
+	<marker id='kra' globalLoc="sl" lat="46.2511583" lng="14.3494750" html="Vozlišče Kranj, Univerza v Mariboru, Fakulteta za organizacijske vede, Kidričeva cesta 55A, Kranj" label="Kranj"/>
+	<marker id='len' globalLoc="sl" lat="46.5647667" lng="16.4476056" html="Vozlišče Lendava, Dvojezična srednja šola Lendava, Kolodvorska ulica 2E, Lendava" label="Lendava"/>
+	<marker id='ljut' globalLoc="sl" lat="46.522345" lng="16.1948561" html="Vozlišče Ljutomer, Gimnazija Franca Miklošiča Ljutomer, Prešernova ulica 34, Ljutomer" label="Ljutomer"/>
+	<marker id='log' globalLoc="sl" lat="45.9163250" lng="14.2296806" html="Vozlišče Logatec, Osnovna šola osmih talcev Logatec, Notranjska cesta 3, Logatec" label="Logatec"/>
+	<marker id='mur' globalLoc="sl" lat="46.6590416" lng="16.1629500" html="Vozlišče Murska Sobota, Pokrajinska in študijska knjižnica Murska Sobota, Zvezna ulica 10, Murska Sobota" label="Murska Sobota"/>
+	<marker id='ngo' globalLoc="sl" lat="45.9568170" lng="13.6430470" html="Vozlišče Nova Gorica, Šolski center Nova Gorica, Stavba MIC, Cankarjeva ulica 8A, Nova Gorica" label="Nova Gorica"/>
+	<marker id='nme' globalLoc="sl" lat="45.8048055" lng="15.1671249" html="Vozlišče Novo Mesto, Knjižnica Mirana Jarca, Rozmanova ulica 28, Novo mesto" label="Novo mesto"/>
+	<marker id='orm' globalLoc="sl" lat="46.4103306" lng="16.1541509" html="Vozlišče Ormož, Gimnazija Ormož, Hardek 5A, Ormož" label="Ormož"/>
+	<marker id='por' globalLoc="sl" lat="45.5161055" lng="13.5795361" html="Vozlišče Portorož, Univerza v Ljubljani, Fakulteta za pomorstvo in promet, Pot pomorščakov 4 " label="Portorož"/>
+	<marker id='ptu' globalLoc="sl" lat="46.4261277" lng="15.8699527" html="Vozlišče Ptuj, Šolski center Ptuj, Volkmerjeva cesta 19, Ptuj" label="Ptuj"/>
+	<marker id='radov' globalLoc="sl" lat="46.3426500" lng="14.1719361" html="Vozlišče Radovljica, Ekonomska gimnazija in srednja šola Radovljica, Gorenjska cesta 13, Radovljica" label="Radovljica"/>
+	<marker id='radenci' globalLoc="sl" lat="46.6432361" lng="16.0389667" html="Vozlišče Radenci, Srednja šola za gostinstvo in turizem, Mladinska ulica 5, Radenci" label="Radenci"/>
+	<marker id='rav' globalLoc="sl" lat="46.5408722" lng="14.9571555" html="Vozlišče Ravne na Koroškem, Šolski center Ravne na Koroškem, Na gradu 4, Ravne na Koroškem " label="Ravne na Koroškem"/>
+	<marker id='ruse' globalLoc="sl" lat="46.5451750" lng="15.5101306" html="Vozlišče Ruše, Gimnazija in srednja kemijska šola Ruše, Šolska ulica 16, Ruše" label="Ruše"/>
+	<marker id='sen' globalLoc="sl" lat="45.7209611" lng="14.0386194" html="Vozlišče Senožeče, Telekom Slovenije, Senožeče 143, Senožeče" label="Senožeče"/>
+	<marker id='sez' globalLoc="sl" lat="45.7057638" lng="13.8684000" html="Vozlišče Sežana, Osnovna šola Srečka Kosovela Sežana, Kosovelova ulica 6, Sežana" label="Sežana"/>
+	<marker id='stj' globalLoc="sl" lat="46.2207361" lng="15.3958611" html="Vozlišče Šentjur pri Celju, Osnovna šola Franja Malgaja Šentjur, Skladateljev Ipavcev 2, Šentjur pri Celju" label="Šentjur pri Celju"/>
+	<marker id='skl' globalLoc="sl" lat="46.1697139" lng="14.3024500" html="Vozlišče Škofja Loka, Šolski center Škofja Loka, Podlubnik 1B, Škofja Loka" label="Škofja Loka"/>
+	<marker id='sgr' globalLoc="sl" lat="46.5056944" lng="15.0840805" html="Vozlišče Slovenj Gradec, Druga osnovna šola Slovenj Gradec, Kopališka 29, Slovenj Gradec " label="Slovenj Gradec"/>
+	<marker id='sbi' globalLoc="sl" lat="46.3905055" lng="15.5679972" html="Vozlišče Slovenska Bistrica, Srednja šola Slovenska Bistrica, Ul. dr. Jožeta Pučnika 21, Slovenska Bistrica" label="Slovenska Bistrica"/>
+	<marker id='tol' globalLoc="sl" lat="46.1832611" lng="13.7316722" html="Vozlišče Tolmin, Knjižnica Cirila Kosmača, Tumov drevored 6, Tolmin" label="Tolmin"/>
+	<marker id='trb' globalLoc="sl" lat="46.1575111" lng="15.0554027" html="Vozlišče Trbovlje, Gimnazija in ekonomska srednja šola Trbovlje, Gimnazijska cesta 10, Trbovlje " label="Trbovlje"/>
+	<marker id='vel' globalLoc="sl" lat="46.3617444" lng="15.1136166" html="Vozlišče Velenje, Šolski center Velenje, Trg mladosti 3, Velenje" label="Velenje"/>
+	<marker id='vip' globalLoc="sl" lat="45.8400444" lng="13.9614500" html="Vozlišče Vipava, Osnovna šola Draga Bajca, Vinarska cesta 4, Vipava" label="Vipava"/>
+	<marker id='vrh' globalLoc="sl" lat="45.9626194" lng="14.2967389" html="Vozlišče Vrhnika, Osnovna šola Ivana Cankarja, Lošca 1, Vrhnika" label="Vrhnika"/>
+	<marker id='zos' globalLoc="sl" lat="46.1391639" lng="14.9867194" html="Vozlišče Zagorje ob Savi, Osnovna šola Toneta Okrogarja, Šolska ulica 1, Zagorje ob Savi" label="Zagorje ob Savi"/>
+	<marker id='gro-tk' globalLoc="sl" lat="45.9560528" lng="14.6533361" html="Prostor 2HU za Arnes DWDM filter, Telekom Slovenije, enota FL Grosuplje, Taborska cesta 5, Grosuplje" label="Prostor 2HU za Arnes DWDM filter, Telekom Slovenije, enota FL Grosuplje"/>
+	<marker id='ptu-tk' globalLoc="sl" lat="46.4185944" lng="15.8724500" html="Prostor 2HU za Arnes DWDM filter, Telekom Slovenije, enota FL Ptuj, Vodnikova cesta 2, Ptuj" label="Prostor 2HU za Arnes DWDM filter, Telekom Slovenije, enota FL Ptuj"/>
+	<marker id='rtpsg' globalLoc="sl" lat="46.5000389" lng="15.0915750" html="Optični delilnik RTP Slovenj Gradec" label="Optični delilnik RTP Slovenj Gradec"/>
+	<marker id='sez-meja' globalLoc="sl" lat="45.7003694" lng="13.8378833" html="Optični delilnik v trafo postaji Elektro Primorska, na mejnem prehodu Fernetiči" label="Optični delilnik mejni prehod Fernetiči"/>
+	<marker id='ng-meja' globalLoc="sl" lat="45.9418944" lng="13.6359806" html="Optična spojka na mejnem prehodu Rožna dolina v Novi Gorici" label="Optična spojka mejni prehod Rožna dolina Nova Gorica"/>
+	<marker id='ng-uning' globalLoc="sl" lat="45.9423000" lng="13.6397056" html="Optični delilnik na UNI-NG, Rožna dolina v Novi Gorici (tudi prevezava na CBF)" label="Optični delilnik na UNi-NG, Nova Gorica"/>
+	<marker id='tol-zpmns' globalLoc="sl" lat="46.1466278" lng="13.7597444" html="Optični delilnik na železniški postaji Most na Soči, odcep optike v Tolmin" label="Optični delilnik Most na Soči"/>
+	<marker id='ce-rtptrn' globalLoc="sl" lat="46.2430917" lng="15.2850806" html="Optični delilnik RTP Trnovlje, odcep optike v Celje" label="Optični delilnik RTP Trnovlje"/>
+	<marker id='lit-rtp' globalLoc="sl" lat="46.0604528" lng="14.8425194" html="Optični delilnik RTP Litija" label="Optični delilnik RTP Litija"/>	
+	<marker id='trb-rtp' globalLoc="sl" lat="46.1268111" lng="15.0549389" html="Optični delilnik RTP Termoelektrarna Trbovlje" label="Optični delilnik RTP Termoelektrarna Trbovlje"/>	
+	<marker id='lj-rtpklece' globalLoc="sl" lat="46.1017694" lng="14.4868694" html="Optični delilnik RTP Kleče Ljubljana" label="Optični delilnik RTP Kleče Ljubljana"/>
+	<marker id='lj-rtpvic' globalLoc="sl" lat="46.0389111" lng="14.4820833" html="Optični delilnik RTP Vič Ljubljana" label="Optični delilnik RTP Vič Ljubljana"/>
+	
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Ljubljana ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='lj-ks' 		globalLoc="lj" lat="46.0764247" lng="14.4813876" html="Vozlišče Mestna knjižnica Ljubljana - enota knjižnica Šiška, Trg komandanta Staneta 8, Ljubljana" label="Ljubljana - Mestna knjižnica Ljubljana, enota knjižnica Šiška"/>
+	<marker id='lj-tplj' 	globalLoc="lj" lat="46.0499444" lng="14.4604444" html="Vozlišče Tehnološki park Ljubljana, Tehnološki park 19, Ljubljana" label="Ljubljana - Tehnološki park Ljubljana"/>	
+	<marker id='lj-ijs'		globalLoc="lj" lat="46.0421473" lng="14.4888961" html="Vozlišče Institut Jožef Stefan, Jamova ulica 39, Ljubljana" label="Ljubljana - Institut Jožef Stefan"/>
+	<marker id='lj-rcijs' 	globalLoc="lj" lat="46.0430000" lng="14.4910000" html="Vozlišče RC IJS Teslova 30, Ljubljana" label="Ljubljana - RC IJS Teslova 30"/>
+	<marker id='lj-icpe' 	globalLoc="lj" lat="46.0734390" lng="14.5118343" html="Vozlišče Mednarodni center ICPE, Dunajska 104, Ljubljana" label="Ljubljana - ICPE"/>
+	<marker id='lj-sipax' 	globalLoc="lj" lat="46.0570777" lng="14.5072666" html="Vozlišče Telekom Slovenije d.d., Cigaletova ulica 10, Ljubljana" label="Ljubljana - Telekom Slovenije, Cigaletova ulica 10"/>
+	<marker id='lj-kc'	 	globalLoc="lj" lat="46.0537361" lng="14.5213166" html="Vozlišče Univerzitetni klinični center, Zaloška 7, Ljubljana" label="Ljubljana - Univerzitetni klinični center"/>
+	<marker id='lj-zss' 	globalLoc="lj" lat="46.0489194" lng="14.5185805" html="Vozlišče Zavod RS za šolstvo, Poljanska cesta 28, Ljubljana" label="Ljubljana - Zavod RS za šolstvo"/>
+	<marker id='lj-mss' 	globalLoc="lj" lat="46.0575571" lng="14.5156913" html="Vozlišče Ministrstvo za izobraževanje, znanost in šport, Masarykova 16, Ljubljana" label="Ljubljana - Ministrstvo za izobraževanje, znanost in šport"/>
+	<marker id='lj-scl' 	globalLoc="lj" lat="46.0462916" lng="14.4999194" html="Vozlišče Šolski center Ljubljana, Aškerčeva cesta 1, Ljubljana" label="Ljubljana - Šolski center Ljubljana"/>	
+	<marker id='lj-mju'		globalLoc="lj" lat="46.0456833" lng="14.4918306" html="Optični delilnik Ministrstvo za notranje zadeve, Direktorat za informatiko in e-storitve, Langusova 4, Ljubljana" label="Ljubljana - MPJU"/>
+	<marker id='lj-ef' 		globalLoc="lj" lat="46.0746056" lng="14.5162056" html="Optični delilnik Ekonomska fakulteta, Univerza v Ljubljani, Kardeljeva ploščad 17, Ljubljana" label="Ljubljana - Univerza v Ljubljani, Ekonomska fakulteta"/>
+	<marker id='lj-fdv' 	globalLoc="lj" lat="46.0746528" lng="14.5143528" html="Optični delilnik FDV, Univerza v Ljubljani, Kardeljeva ploščad 5, Ljubljana" label="Ljubljana - Univerza v Ljubljani, Fakulteta za družbene vede"/>
+	<marker id='lj-cdi' 	globalLoc="lj" lat="46.0745778" lng="14.4829278" html="Optični delilnik Center za dopisno izobraževanje Univerzum, Grošljeva ulica 4, Ljubljana" label="Ljubljana - Univerzum (Šiška)"/>	
+	
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Maribor ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='mb-izum'	globalLoc="mb" lat="46.5636111" lng="15.6514361" html="Vozlišče IZUM, Prešernova 17, Maribor" label="Maribor - vozlišče IZUM"/>
+	<marker id='mb-gim'		globalLoc="mb" lat="46.5489944" lng="15.6442972" html="Vozlišče II. gimnazija Maribor, Trg Miloša Zidanška 1, Maribor" label="Maribor - II. gimnazija Maribor"/>
+
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Krško ****************** -->
+<!-- ******************************************************************** -->	
+	<marker id='kk-tk'		globalLoc="kk" lat="45.9583111" lng="15.4956917" html="Vozlišče Telekom Slovenije, Rozmanova ulica 1, Krško" label="Krško - Telekom Slovenije"/>
+	<marker id='kk-fl'		globalLoc="kk" lat="45.9679110" lng="15.4839580" html="Vozlišče Univerza v Mariboru, Fakulteta za logistiko, Hočevarjev trg 1, Krško" label="Krško - UNI-MB, Fakulteta za logistiko"/>
+	
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Postojna ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='po-tk'		globalLoc="po" lat="45.7743306" lng="14.2138056" html="Postojna - Telekom Slovenije, Ulica 1. maja 2A, Postojna" label="Postojna - Telekom Slovenije"/>
+	<marker id='po-sc' 		globalLoc="po" lat="45.7704138" lng="14.2112944" html="Postojna - Šolski center Postojna, Cesta v Staro vas 2, Postojna" label="Postojna - Šolski center Postojna"/>	
+
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Rogaška Slatina ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='rs-sc' globalLoc="rs" lat="46.2222611" lng="15.6438889" html="Vozlišče Rogaška Slatina, Srednješolski center Rogaška Slatina, Steklarska ulica 1, Rogaška Slatina" label="Rogaška Slatina"/>
+	<marker id='rs-tk' globalLoc="rs" lat="46.2346833" lng="15.6386833" html="Vozlišče Rogaška Slatina, Telekom Slovenije, Kidričeva ulica 3, Rogaška Slatina" label="Rogaška Slatina"/>	
+
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Laško ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='las-el' globalLoc="las" lat="46.1692500" lng="15.2339083" html="Vozlišče Laško, RTP Laško, Celjska cesta 50, Laško" label="Laško"/>
+	<marker id='las-os' globalLoc="las" lat="46.1528611" lng="15.2363750" html="Vozlišče Laško, Osnovna šola Primoža Trubarja Laško, Trubarjeva ulica 20, Laško" label="Laško"/>
+	<marker id='las-osdebro' globalLoc="las" lat="46.1660417" lng="15.2304333" html="Optični delilnik, Osnovna šola Primoža Trubarja Laško, podružnica Debro, Poženelova ulica 26, Laško" label="Laško"/>
+
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Divača ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='div-os' globalLoc="div" lat="45.6828305" lng="13.9675694" html="Vozlišče Divača, Osnovna šola dr. Bogomirja Magajne, Ulica dr. Bogomira Magajne 4, Divača" label="Divača"/>
+	<marker id='div-rtp1' globalLoc="div" lat="45.6900056" lng="13.9664750" html="Optični delilnik1, RTP Divača, Kraška cesta 1, Divača" label="Divača"/>
+	<marker id='div-rtp2' globalLoc="div" lat="45.6900028" lng="13.9663556" html="Optični delilnik2, RTP Divača, Kraška cesta 1, Divača" label="Divača"/>
+
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Litija ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='lit-gim' globalLoc="lit" lat="46.0626028" lng="14.8191722" html="Vozlišče Litija, Gimnazija Litija, Bevkova ulica 1C, Litija" label="Litija"/>
+	<marker id='lit-sik' globalLoc="lit" lat="46.0587417" lng="14.8267139" html="Optični delilnik, Knjižnica Litija, Parmova ulica 9, Litija" label="Litija"/>
+	
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Litija ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='dom-ssd' globalLoc="sl" lat="46.1427389" lng="14.5977861" html="Vozlišče Domžale, Srednja šola Domžale - učne delavnice (objekt U), Ljubljanska cesta 105, Domžale" label="Domžale"/>	
+	<marker id='dom-ijs' globalLoc="sl" lat="46.1404639" lng="14.5934139" html="Optični delilnik, IJS odsek za tanke plasti in površine Domžale, Ljubljanska cesta 80, Domžale" label="Domžale"/>
+
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Ajdovščina ****************** -->
+<!-- ******************************************************************** -->		
+	<marker id='ajd-old' globalLoc="ajd" lat="45.8893530" lng="13.9024110" html="Optični delilnik, stara šola, Cesta 5. maja 7, Ajdovščina" label="Ajdovščina"/>	
+	<marker id='ajd-new' globalLoc="ajd" lat="45.8914444" lng="13.9030472" html="Vozlišče Ajdovščina, nova Osnovna Šola Danila Lokarja Ajdovšcina, Cesta 5. maja 15, Ajdovščina" label="Ajdovščina"/>
+	<marker id='ajd-freenet' globalLoc="ajd" lat="45.8840278" lng="13.9038167" html="Optični delilnik FreeNET, prevezava na optiko iz RTP Ajdovščina, Ajdovščina" label="Ajdovščina"/>
+	
+<!-- ******************************************************************** -->		
+<!-- **************************** VOZLIŠČA - Slovenske Konjice ****************** -->
+<!-- ******************************************************************** -->	
+	<marker id='skon-os' globalLoc="skon" lat="46.3380833" lng="15.4195500" html="Vozlišče Slovenske Konjice, Osnovna šola Pod goro Slovenske Konjice, Šolska ulica 3, Slovenske Konjice" label="Slovenske Konjice"/>	
+	<marker id='skon-rtp' globalLoc="skon" lat="46.3405889" lng="15.4381444" html="Optični delilnik, RTP Slovenske Konjice, Prevrat 28, Slovenske Konjice" label="Slovenske Konjice"/>	
+	<marker id='skon-vvz' globalLoc="skon" lat="46.3397000" lng="15.4296972" html="Optični delilnik, Vrtec Slovenske Konjice - enota Prevrat, Usnjarska cesta 12, Slovenske Konjice" label="Slovenske Konjice"/>	
+	
+<!-- ********************************************************************* -->
+<!-- **************************** POVEZAVE -  Slovenija ****************** -->
+<!-- ********************************************************************* -->	
+
+<!--  ************************************************************************************ -->	
+<!--  ****************************** Optične povezave ************************************ -->	
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Senožeče - Sežana, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017555&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='sen'/>-->
+<!--		<point id='sez'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Sežana - mejni prehod Fernetiči (prevezava na optiko Italjanov, v Trst), JN 2009 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Se%C5%BEana-Ferneti%C4%8Di,mejniprehod(porazpisuOptika2009-1):'&gt;ID 9017537&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='sez'/>-->
+<!--		<point id='sez-meja'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Sežana - mejni prehod Fernetiči (prevezava na optiko Italjanov, v Trst), JN 2009 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Se%C5%BEana-Ferneti%C4%8Di,mejniprehod(porazpisuOptika2009-1):'&gt;ID 9017537&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='sez'/>-->
+<!--		<point id='sez-meja'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Senožeče - Sežana, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017555&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='sen'/>-->
+<!--		<point id='sez'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Sežana - Vipava, JN 2016 ponudnik VAHTA, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+VAHTA'&gt;ID ARNES_VIP-SEZ &lt;/a&gt;, goran@vahta.eu, 041-342599">-->
+<!--		<point id='sez'/>-->
+<!--		<point id='vip'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika UNI-NG - mejni prehod Rožna dolina Nova Gorica (prevezava na optiko Italjanov), lastna optika, solastnik kabla Elektro Primorska, &lt;a href='http://wiki.arnes.si:8080/display/hw/CBF+v+Novi+Gorici'&gt;ID nimamo, več podatkov je tukaj &lt;/a&gt;, sami poskrbimo za odpravo napake, pokličemo izvajalca podjetje MENSEL (gl. wiki), obvestimo Elektro Primorska (Branko Ožbolt)">-->
+<!--		<point id='ng-uning'/>-->
+<!--		<point id='ng-meja'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika UNI-NG - mejni prehod Rožna dolina Nova Gorica (prevezava na optiko Italjanov), lastna optika, solastnik kabla Elektro Primorska, &lt;a href='http://wiki.arnes.si:8080/display/hw/CBF+v+Novi+Gorici'&gt;ID nimamo, več podatkov je tukaj &lt;/a&gt;, sami poskrbimo za odpravo napake, pokličemo izvajalca podjetje MENSEL (gl. wiki), obvestimo Elektro Primorska (Branko Ožbolt)">-->
+<!--		<point id='ng-uning'/>-->
+<!--		<point id='ng-meja'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika vozlišče Nova Gorica - UNI-NG, ponudnik optike je Elektro Primorska, najemnik optike je UNI-NG (optiko si delimo z UNI-NG, z DWDM filtri jo uporablja Arnes za CBF in UNI-NG za povezavo na vozlišče Arnesa) &lt;a href='http://wiki.arnes.si:8080/display/hw/CBF+v+Novi+Gorici'&gt;ID 201409108, več podatkov je tukaj &lt;/a&gt;, za prijavo napake kontaktiramo kontaktne osebe na UNI-NG (gl. wiki CBF)">-->
+<!--		<point id='ngo'/>-->
+<!--		<point id='ng-uning'/>-->
+<!--	</line>			-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika vozlišče Nova Gorica - UNI-NG, ponudnik optike je Elektro Primorska, najemnik optike je UNI-NG (optiko si delimo z UNI-NG, z DWDM filtri jo uporablja Arnes za CBF in UNI-NG za povezavo na vozlišče Arnesa) &lt;a href='http://wiki.arnes.si:8080/display/hw/CBF+v+Novi+Gorici'&gt;ID 201409108, več podatkov je tukaj &lt;/a&gt;, za prijavo napake kontaktiramo kontaktne osebe na UNI-NG (gl. wiki CBF)">-->
+<!--		<point id='ngo'/>-->
+<!--		<point id='ng-uning'/>-->
+<!--	</line>			-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Portorož - Koper, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017518&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='por'/>-->
+<!--		<point id='kop'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Izola - Koper, JN 2009 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017527&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kop'/>-->
+<!--		<point id='izo'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Portorož - Izola, JN 2009 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017529 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='izo'/>-->
+<!--		<point id='por'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Koper - RTP Divača, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='kop'/>-->
+<!--		<point id='div-rtp1'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optika RTP Divača - Ajdovščina, del do lokalne optike FreeNET, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='div-rtp1'/>-->
+<!--		<point id='ajd-freenet'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.7" color="#FF0000" width="3" html="Optika RTP Divača - Ajdovščina, del lokalne optike FreeNET, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ajd-freenet'/>-->
+<!--		<point id='ajd-new'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika RTP Divača - Osnovna šola Divača, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-OdcepDivaca'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='div-rtp1'/>-->
+<!--		<point id='div-os'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika RTP Divača - Osnovna šola Divača, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-OdcepDivaca'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='div-rtp1'/>-->
+<!--		<point id='div-os'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optika Ajdovščina - vozlišče Nova Gorica, del do lokalne optike FreeNET, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ajd-freenet'/>-->
+<!--		<point id='ngo'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optika Ajdovščina - vozlišče Nova Gorica, del lokalna optika FreeNET, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ajd-new'/>-->
+<!--		<point id='ajd-freenet'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optika Ajdovščina - Idrija, JN 2016, ponudnik FreeNET, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+FreeNET'&gt; s strani FreeNET nismo dobili ID za to optiko &lt;/a&gt;, arnes@freenet.si, 041-622010">-->
+<!--		<point id='ajd-new'/>-->
+<!--		<point id='idr'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.8" color="#FF0000" width="3" html="Optika Koper - optični delilnik RTP Divača - Nova Gorica, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='kop'/>-->
+<!--		<point id='div-rtp2'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="4.5" color="#FF0000" width="3" html="Optika Koper - optični delilnik RTP Divača - Nova Gorica, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='div-rtp2'/>-->
+<!--		<point id='ngo'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Nova Gorica - Optični delilnik Železniška postaja Most na Soči (odcep v Tolmin), JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ngo'/>-->
+<!--		<point id='tol-zpmns'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika optični delilnik Železniška postaja Most na Soči (odcep v Tolmin) - RTP Bled, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='tol-zpmns'/>-->
+<!--		<point id='ble'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika optični delilnik Železniška postaja Most na Soči - Tolmin, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='tol'/>-->
+<!--		<point id='tol-zpmns'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika optični delilnik Železniška postaja Most na Soči - Tolmin, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='tol'/>-->
+<!--		<point id='tol-zpmns'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optika Nova Gorica - opt. delilnik Most na Soči - RTP Bled, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ngo'/>-->
+<!--		<point id='tol-zpmns'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optika Nova Gorica - opt. delilnik Most na Soči - RTP Bled, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='tol-zpmns'/>-->
+<!--		<point id='ble'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika RTP Bled - Kranj, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ble'/>-->
+<!--		<point id='kra'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika RTP Bled - Kranj, JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ble'/>-->
+<!--		<point id='kra'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Kranj - Ljubljana (IJS), JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='kra'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Kranj - Ljubljana (IJS), JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-GorenjskaZanka'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='kra'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Ljubljana (TPL) - Telekom FL Postojna, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017551 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='po-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.2" color="#FF0000" width="3" html="Optika Ljubljana (TPL) - Telekom FL Postojna, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017551 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='po-tk'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Telekom FL Postojna - Senožeče, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017552 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='po-tk'/>-->
+<!--		<point id='sen'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Telekom FL Postojna - Šolski center Postojna, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017519 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='po-tk'/>-->
+<!--		<point id='po-sc'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Telekom FL Postojna - Šolski center Postojna, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017519 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='po-tk'/>-->
+<!--		<point id='po-sc'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Ljubljana (TPL) - Vrhnika, JN 2016, ponudnik Softnet, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Softnetu#NajetaoptikapriSoftnetu-Ljubljana(TPL)-O%C5%A0Vrhnika(TSPvozli%C5%A1%C4%8DepoIRoptika):'&gt;ID SSI-LJ-1330-FO &lt;/a&gt;, network.support@softnet.si, (del. čas) 01-8100100 ali (24/7) 031-395937 ">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='vrh'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0" color="#FF0000" width="3" html="Optika Telekom FL Postojna - Senožeče, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017552 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='po-tk'/>-->
+<!--		<point id='sen'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="3" color="#FF0000" width="3" html="Optika Senožeče - Portorož, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017556 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='sen'/>-->
+<!--		<point id='por'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Senožeče - Divača (OŠ), JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017553 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='sen'/>-->
+<!--		<point id='div-os'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="3" color="#FF0000" width="3" html="Optika Divača (OŠ) - Portorož, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Primorskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017554 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='div-os'/>-->
+<!--		<point id='por'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.2" color="#FF0000" width="3" html="Optika Ljubljana (TPL) - Grosuplje (telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017513 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='gro-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.4" color="#FF0000" width="3" html="Optika Grosuplje (Telekom) - Novo mesto, JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017514 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='gro-tk'/>-->
+<!--		<point id='nme'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.4" color="#FF0000" width="3" html="Optika Ljubljana (TPL) - Grosuplje (Telekom), JN 2016 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017513 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='gro-tk'/>-->
+<!--	</line>-->
+<!--		<line typ="opt" globalLoc="sl" turn="R" curv="0.6" color="#FF0000" width="3" html="Optika Grosuplje (Telekom) - OŠ Grosuplje, JN 2016 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017511 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='gro-tk'/>-->
+<!--		<point id='gro-os'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.6" color="#FF0000" width="3" html="Optika OŠ Grosuplje - Grosuplje (Telekom), JN 2016 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017511 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='gro-os'/>-->
+<!--		<point id='gro-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.8" color="#FF0000" width="3" html="Optika Grosuplje (Telekom) - Kočevje, JN 2016 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017512 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='gro-tk'/>-->
+<!--		<point id='koc'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Kočevje - Grosuplje (Telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017512 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='koc'/>-->
+<!--		<point id='gro-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.2" color="#FF0000" width="3" html="Optika Grosuplje (Telekom) - Novo mesto, JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017514 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='gro-tk'/>-->
+<!--		<point id='nme'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Novo mesto - Črnomelj, JN 2016 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-NMCrnomelj'&gt; ARNES ID 201512018 &lt;/a&gt;, help@stelkom.si, 041-699999  ">-->
+<!--		<point id='nme'/>-->
+<!--		<point id='crn'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.3" color="#FF0000" width="3" html="Optika Novo mesto - Krško (Telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017516 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='nme'/>-->
+<!--		<point id='kk-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.7" color="#FF0000" width="3" html="Optika Novo mesto - Krško (Telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017516 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='nme'/>-->
+<!--		<point id='kk-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Krško (Telekom) - Krško (UNI-MB, Fakulteta za logistiko), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017520 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kk-tk'/>-->
+<!--		<point id='kk-fl'/>-->
+<!--	</line>	-->
+<!--		<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optika Krško (UNI-MB, Fakulteta za logistiko) - Brežice, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Kr%C5%A1ko,Fakultetazalogistiko-Bre%C5%BEice(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017508 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kk-fl'/>-->
+<!--		<point id='bre'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Krško (UNI-MB, Fakulteta za logistiko) - Krško (Telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017520 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kk-fl'/>-->
+<!--		<point id='kk-tk'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1.5" color="#FF0000" width="3" html="Optika Krško (Telekom) - Rogaška Slatina (Telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017521 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kk-tk'/>-->
+<!--		<point id='rs-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Krško (Telekom) - Rogaška Slatina (Telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017521 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kk-tk'/>-->
+<!--		<point id='rs-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Rogaška Slatina (Telekom) - Ptuj (Telekom), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017523 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='rs-tk'/>-->
+<!--		<point id='ptu-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Ptuj (Telekom)- Maribor (IZUM), JN 2010 ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017528 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='mb-izum'/>-->
+<!--		<point id='ptu-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="3" color="#FF0000" width="3" html="Optika Rogaška Slatina (Telekom) - Rogaška Slatina (Šolski center), JN 2016, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017522 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='rs-tk'/>-->
+<!--		<point id='rs-sc'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Rogaška Slatina (Telekom) - Ptuj (Telekom), JN 2010, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017523 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='rs-tk'/>-->
+<!--		<point id='ptu-tk'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optika Ptuj (Telekom) - Maribor (IZUM), JN 2010, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017528 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='ptu-tk'/>-->
+<!--		<point id='mb-izum'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="4" color="#FF0000" width="3" html="Optika Telekom FL Ptuj - ŠC Ptuj, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi'&gt;ID 9017525 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='ptu-tk'/>-->
+<!--		<point id='ptu'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="5" color="#FF0000" width="3" html="Optika Telekom Fl Ptuj - ŠC Ptuj, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Dolenjskazanka(poJNOptika2010-1inKomunikacijskepovezave2016-1):NoviTelekomID-jiod15.2.2022zaradinovihprevezavnalokacijahodcepov,kjersmonajeli2HUprostora-FLGrosupljeinFLPtuj.Prej%C5%A1naverzi:'&gt;ID 9017525 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='ptu-tk'/>-->
+<!--		<point id='ptu'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optika Maribor (IZUM) - Slovenska Bistrica, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor'&gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='mb-izum'/>	-->
+<!--		<point id='sbi'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Slovenska Bistrica - Slovenske Konjice (RTP), JN 2003 ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='sbi'/>	-->
+<!--		<point id='skon-rtp'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Slovenske Konjice (RTP) - Slovenske Konjice (VVZ), JN 2016, ponudnik CATV Selnica Ruše, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=30017582#NajetaoptikapriCATVSelnicaRu%C5%A1e-OdcepKonjice' &gt; ID SK-Arnes-1 &lt;/a&gt;, miha@krs.si, info@krs.si, Delovni čas: 040-242425, 24/7: 082-810000 ">-->
+<!--		<point id='skon-rtp'/>	-->
+<!--		<point id='skon-vvz'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Slovenske Konjice (VVZ) - Slovenske Konjice (OŠ), IR Optika, ID 144002, izvajalec Garnol d.o.o., &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=30017582#NajetaoptikapriCATVSelnicaRu%C5%A1e-OdcepKonjice' &gt; glej podatke pod Odcep Slovenske Konjice &lt;/a&gt; ">-->
+<!--		<point id='skon-vvz'/>	-->
+<!--		<point id='skon-os'/>-->
+<!--	</line>			-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Slovenske Konjice (RTP) - Slovenske Konjice (VVZ), JN 2016, ponudnik CATV Selnica Ruše, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=30017582#NajetaoptikapriCATVSelnicaRu%C5%A1e-OdcepKonjice' &gt; ID SK-Arnes-1 &lt;/a&gt;, miha@krs.si, info@krs.si, Delovni čas: 040-242425, 24/7: 082-810000 ">-->
+<!--		<point id='skon-rtp'/>	-->
+<!--		<point id='skon-vvz'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Slovenske Konjice (VVZ) - Slovenske Konjice (OŠ), IR Optika, ID 144002, izvajalec Garnol d.o.o., &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=30017582#NajetaoptikapriCATVSelnicaRu%C5%A1e-OdcepKonjice' &gt; glej podatke pod Odcep Slovenske Konjice &lt;/a&gt; ">-->
+<!--		<point id='skon-vvz'/>	-->
+<!--		<point id='skon-os'/>-->
+<!--	</line>			-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Maribor (IZUM) - Ruše, JN 2016, ponudnik CATV Selnica Ruše, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=30017582#NajetaoptikapriCATVSelnicaRu%C5%A1e-RuseMaribor' &gt; ID SR-Arnes-1' &lt;/a&gt;, miha@krs.si, info@krs.si, Delovni čas: 040-242425, 24/7: 082-810000 ">-->
+<!--		<point id='mb-izum'/>	-->
+<!--		<point id='ruse'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Slovenske Konjice (RTP) - RTP Trnovlje - Celje, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-OdcepTrnovlje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='skon-rtp'/>-->
+<!--		<point id='ce-rtptrn'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Slovenske Konjice (RTP) - RTP Trnovlje - Celje, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-OdcepTrnovlje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ce-rtptrn'/>-->
+<!--		<point id='cel'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Celje - Šentjur pri Celju, JN 2016, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeSentjur' &gt; ID:201512029 &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='cel'/>-->
+<!--		<point id='stj'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Celje - RTP Trnovlje - RTP Laško, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='cel'/>-->
+<!--		<point id='ce-rtptrn'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="6" color="#FF0000" width="3" html="Optika Celje - RTP Trnovlje - RTP Laško, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ce-rtptrn'/>-->
+<!--		<point id='las-el'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Trbovlje - RTP Termoelektrarna Trbovlje - RTP Laško, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='las-el'/>-->
+<!--		<point id='trb-rtp'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0" color="#FF0000" width="3" html="Optika Trbovlje - RTP Termoelektrarna Trbovlje - RTP Laško, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='trb-rtp'/>-->
+<!--		<point id='trb'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.4" color="#FF0000" width="3" html="Optika RTP Beričevo - RTP Litija - Trbovlje, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='trb'/>-->
+<!--		<point id='lit-rtp'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika RTP Beričevo - RTP Litija - Trbovlje, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='lit-rtp'/>-->
+<!--		<point id='ber'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optika Trbovlje - Zagorje ob Savi, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Trbovlje-ZagorjeobSavi(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017504 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='trb'/>-->
+<!--		<point id='zos'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Ljubljana (IJS) - RTP Beričevo, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='ber'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optika Ljubljana (IJS) - RTP Beričevo, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='ber'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1.5" color="#FF0000" width="3" html="Optika RTP Beričevo - RTP Laško, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ber'/>-->
+<!--		<point id='las-el'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="2.4" color="#FF0000" width="3" html="Optika RTP Laško - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaLaskoMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='las-el'/>-->
+<!--		<point id='mb-izum'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='cel'/>-->
+<!--		<point id='rtpsg'/>	-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='rtpsg'/>-->
+<!--		<point id='dra'/>	-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.7" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='cel'/>-->
+<!--		<point id='vel'/>	-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='vel'/>-->
+<!--		<point id='rtpsg'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='rtpsg'/>-->
+<!--		<point id='sgr'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1.5" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='sgr'/>-->
+<!--		<point id='rtpsg'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='rtpsg'/>-->
+<!--		<point id='dra'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Dravograd - Ravne na Koroškem, JN 2008 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Dravograd-RavnenaKoro%C5%A1kem(porazpisuOptika2008-1):'&gt;ID 9017524 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='dra'/>-->
+<!--		<point id='rav'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='dra'/>-->
+<!--		<point id='mb-izum'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optika Celje - Velenje - Slovenj Gradec - Dravograd - Maribor (IZUM), JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-CeljeVelenjeMaribor' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='dra'/>-->
+<!--		<point id='mb-izum'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.8" color="#FF0000" width="3" html="Optika Maribor (IZUM) - Murska Sobota, JN 2009 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017526 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='mb-izum'/>-->
+<!--		<point id='mur'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Maribor (IZUM) - Gornja Radgona, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017569 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='mb-izum'/>-->
+<!--		<point id='grad'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Gornja Radgona - Radenci, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017570 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='grad'/>-->
+<!--		<point id='radenci'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optika Radenci - Murska Sobota, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017571 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='radenci'/>-->
+<!--		<point id='mur'/>-->
+<!--	</line>-->
+<!--		<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optika Murska Sobota - Lendava, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-MurskaSobota-Lendava(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017500 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='mur'/>-->
+<!--		<point id='len'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Ljubljana (IJS) - Kamnik, JN 2009 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana-Kamnik-Celje(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017517 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='kam'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optika Kamnik - Celje, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana-Kamnik-Celje(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017538 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kam'/>-->
+<!--		<point id='cel'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="6" color="#FF0000" width="3" html="Optika Ptuj - Murska Sobota, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017532 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='ptu'/>-->
+<!--		<point id='mur'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="3" color="#FF0000" width="3" html="Optika Ptuj - Ormož, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017536 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='ptu'/>-->
+<!--		<point id='orm'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optika Ormož - Ljutomer, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017534 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='orm'/>-->
+<!--		<point id='ljut'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optika Ljutomer - Murska Sobota, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Prekmurskazanka(porazpisuOptika2009-1inOptika2010-1):'&gt;ID 9017533 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='ljut'/>-->
+<!--		<point id='mur'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Kranj - Jesenice, JN 2010 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Kranj-odcepRadovljica-Jesenice(porazpisuOptika2010-1inKomunikacijskepovezave2016-1):'&gt;ID 9017509 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kra'/>-->
+<!--		<point id='jes'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optika Kranj - Radovljica, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Kranj-odcepRadovljica-Jesenice(porazpisuOptika2010-1inKomunikacijskepovezave2016-1):'&gt;ID 9017501 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kra'/>-->
+<!--		<point id='radov'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optika Radovljica - Jesenice, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Kranj-odcepRadovljica-Jesenice(porazpisuOptika2010-1inKomunikacijskepovezave2016-1):'&gt;ID 9017558 &lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='radov'/>-->
+<!--		<point id='jes'/>-->
+<!--	</line>						-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optika Ljubljana (TPL) - Logatec, JN 2016, ponudnik Softnet, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Softnetu#NajetaoptikapriSoftnetu-Ljubljana(TPL)-O%C5%A0osmihtalcevLogatec(TSPvozli%C5%A1%C4%8DepoIRoptika):'&gt;ID SSI-LJ-1379-FO &lt;/a&gt;, network.support@softnet.si, (del. čas) 01-8100100 ali (24/7) 031-395937 ">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='log'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Kranj - Škofja Loka  Optika Kranj - Škofja Loka, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Kranj-%C5%A0kofjaLoka(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017502&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='kra'/>-->
+<!--		<point id='skl'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Beričevo Ljubljana - RTP Kleče Ljubljana, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ber'/>-->
+<!--		<point id='lj-rtpklece'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Beričevo Ljubljana - RTP Kleče Ljubljana, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ber'/>-->
+<!--		<point id='lj-rtpklece'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="3.5" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Kleče Ljubljana - RTP Vič Ljubljana, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='lj-rtpklece'/>-->
+<!--		<point id='lj-rtpvic'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="r" curv="3.2" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Kleče Ljubljana - RTP Vič Ljubljana, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='lj-rtpklece'/>-->
+<!--		<point id='lj-rtpvic'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.1" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Beričevo Ljubljana - Celje, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ber'/>-->
+<!--		<point id='cel'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Beričevo Ljubljana - Celje, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='ber'/>-->
+<!--		<point id='cel'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="2.5" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Vič Ljubljana - IJS, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='lj-rtpvic'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="2.2" color="#FF0000" width="3" html="Optika Ljubljana - Celje, del RTP Vič Ljubljana - IJS, JN 2003, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-LjubljanaCelje' &gt;s strani Stelkoma nismo dobili ID te optike &lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='lj-rtpvic'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	-->
+
+<!--&lt;!&ndash; ********************************************************************* &ndash;&gt;-->
+<!--&lt;!&ndash; ************************* KRAJEVNE POVEZAVE ************************* &ndash;&gt;-->
+<!--&lt;!&ndash; ********************************************************************* &ndash;&gt;	-->
+
+<!--&lt;!&ndash;  ******************************* Domžale ****************************************** &ndash;&gt;	-->
+<!--&lt;!&ndash;  ********************* Optične povezave ************************************ &ndash;&gt;-->
+<!--	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optika Ljubljana (MIZŠ) - Domžale (odsek IJS), JN 2016, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/display/hw/Optika+najeta+pri+Telemach-u#OptikanajetapriTelemach-u-Ljubljana(MIZ%C5%A0)-IJS,odsekzatankeplastiinpovr%C5%A1ineDom%C5%BEale-(IRoptika)-Srednja%C5%A1olaDom%C5%BEale,u%C4%8Dnedelavnice(TSPvozli%C5%A1%C4%8DepoIRoptika)::'&gt;ID 841110 017&lt;/a&gt;, noc@telemach.si, 070-887100">-->
+<!--		<point id='lj-mss'/>-->
+<!--		<point id='dom-ijs'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika odsek IJS Domžale - Srednja šola Domžale, učne delavnice, IR optika, ID115011, ponudnik ADVANT, &lt;a href='http://wiki.arnes.si:8080/display/hw/Optika+najeta+pri+Telemach-u#OptikanajetapriTelemach-u-Ljubljana(MIZ%C5%A0)-IJS,odsekzatankeplastiinpovr%C5%A1ineDom%C5%BEale-(IRoptika)-Srednja%C5%A1olaDom%C5%BEale,u%C4%8Dnedelavnice(TSPvozli%C5%A1%C4%8DepoIRoptika):'&gt;glej podatke pod IR optika ID115011 &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Advant+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='dom-ijs'/>-->
+<!--		<point id='dom-ssd'/>-->
+<!--	</line>		-->
+
+<!--&lt;!&ndash;  ******************************* Laško ****************************************** &ndash;&gt;	-->
+<!--&lt;!&ndash;  ********************* Optične povezave ************************************ &ndash;&gt;-->
+<!--	-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika RTP Laško - Osnovna šola Primož Trubar, podružnica Debro, JN 2016, ponudnik Stelkom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-Lasko'&gt;ID 201703012&lt;/a&gt;, help@stelkom.si, 041-699999">-->
+<!--		<point id='las-el'/>-->
+<!--		<point id='las-osdebro'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Osnovna šola Primož Trubar, podružnica Debro - Osnovna šola Primož Trubar Laško, IR optika, ID127003, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+Stelkomu#NajetaoptikapriStelkomu-Lasko:'&gt;glej podatke pod IR optika ID127003 &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telekom+-+IR+optika&lt;/a&gt;">-->
+<!--		<point id='las-os'/>-->
+<!--		<point id='las-osdebro'/>-->
+<!--	</line>					-->
+<!--			-->
+<!--&lt;!&ndash;  ******************************* LITIJA ****************************************** &ndash;&gt;	-->
+<!--&lt;!&ndash;  ********************* Optične povezave ************************************ &ndash;&gt;-->
+<!--	-->
+<!--	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optika Ljubljana (MIZŠ) - Litija (Knjižnica Litija), JN 2016, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/display/hw/Optika+najeta+pri+Telemach-u#OptikanajetapriTelemach-u-Ljubljana(MIZ%C5%A0)-Knji%C5%BEnicaLitija-(IRoptika)-GimnazijaLitija(TSPvozli%C5%A1%C4%8DepoIRoptika):'&gt;ID 841110 011&lt;/a&gt;, noc@telemach.si, 070-887100">-->
+<!--		<point id='lj-mss'/>-->
+<!--		<point id='lit-sik'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optika Knjižnica Litija - Gimnazija Litija, IR optika, ID129003, ponudnik Telekom Slovenije , &lt;a href='http://wiki.arnes.si:8080/display/hw/Optika+najeta+pri+Telemach-u#OptikanajetapriTelemach-u-Ljubljana(MIZ%C5%A0)-Knji%C5%BEnicaLitija-(IRoptika)-GimnazijaLitija(TSPvozli%C5%A1%C4%8DepoIRoptika):'&gt;glej podatke pod IR optika ID129003 &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telekom+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lit-sik'/>-->
+<!--		<point id='lit-gim'/>-->
+<!--	</line>				-->
+<!--			-->
+<!--&lt;!&ndash;  ******************************* LJUBLJANA ****************************************** &ndash;&gt;	-->
+<!--&lt;!&ndash;  *************************** Optične povezave *************************************** &ndash;&gt;-->
+
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="2" color="#FF0000" width="2" html="Optika TPL - IJS, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRTPLIJS'&gt;ID101042 &lt;/a&gt;,  &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_IRoptika_TPL-IJS_ID101042.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.8" color="#FF0000" width="2" html="Optika TPL - IJS, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRTPLIJS'&gt;ID101042 &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_IRoptika_TPL-IJS_ID101042.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.4" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Cesta na Brdo, Tržaška, Jadranska, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,TPL-Ljubljana,IJS(porazpisuOptika2010-1):'&gt;ID 9017568&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_Telekom_TPL-IJS_ID9017568.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.2" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Cesta na Brdo, Tržaška, Jadranska, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,TPL-Ljubljana,IJS(porazpisuOptika2010-1):'&gt;ID 9017568&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_Telekom_TPL-IJS_ID9017568.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="0.6" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Vič, Tržaška, Jamova, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-LjubljanaTPL-Ljubljana,IJS(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017506&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_Telekom_TPL-IJS_ID9017506.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="0.8" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Vič, Tržaška, Jamova, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-LjubljanaTPL-Ljubljana,IJS(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017506&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_Telekom_TPL-IJS_ID9017506.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="1.4" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Vič, Tržaška, Jamova, JN 2012 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-LjubljanaIJS-Ljubljana,TPL(porazpisuOptika2012-1):'&gt;ID 9017572&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_Telekom_TPL-IJS_ID9017572.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="1.6" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Vič, Tržaška, Jamova, JN 2012 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-LjubljanaIJS-Ljubljana,TPL(porazpisuOptika2012-1):'&gt;ID 9017572&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_Telekom_TPL-IJS_ID9017572.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.4" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Cesta na Brdo, Rožna dolina, Riharjeva ul, Gerbičeva, Jadranska ul, JN 2012, ponudnik GVO, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+GVO'&gt;ID 9015620&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_GVO_TPL-IJS_ID9015620.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.6" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Cesta na Brdo, Rožna dolina, Riharjeva ul, Gerbičeva, Jadranska ul, JN 2012, ponudnik GVO, &lt;a href='http://wiki.arnes.si:8080/display/hw/Najeta+optika+pri+GVO'&gt;ID 9015620&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_GVO_TPL-IJS_ID9015620.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="2.4" color="#FF0000" width="2" html="Optika TPL - RC IJS Teslova 30, za Arnes, naročilnica 4-2/2020-68, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,TPL-Teslova30,RCIJS(naro%C4%8Diloznaro%C4%8Dilnico4-2/2020-68):'&gt;ID 9017573&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-rcijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="2.6" color="#FF0000" width="2" html="Optika TPL - RC IJS Teslova 30, za Arnes, naročilnica 4-2/2020-68, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,TPL-Teslova30,RCIJS(naro%C4%8Diloznaro%C4%8Dilnico4-2/2020-68):'&gt;ID 9017573&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-rcijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="3.0" color="#FF0000" width="2" html="Optika TPL - RC IJS Teslova 30, za IJS backup, naročilnica 4-4/2021-4, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Ljubljana,TPL-Teslova30,zaIJS,RCIJS(naro%C4%8Diloznaro%C4%8Dilnico4-4/2021-4):'&gt;ID 9017574&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-rcijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="3.2" color="#FF0000" width="2" html="Optika TPL - RC IJS Teslova 30, za IJS backup, naročilnica 4-4/2021-4, ponudnik Telekom, &lt;a href='https://wiki.arnes.si/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinstro%C5%A1kispremstva)-Ljubljana,TPL-Teslova30,zaIJS,RCIJS(naro%C4%8Diloznaro%C4%8Dilnico4-4/2021-4):'&gt;ID 9017574&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-rcijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="0.8" color="#FF0000" width="2" html="Optika TPL - IJS, trasa Vič, Tržaška, Jamova, JN 2016 ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-LjubljanaTPL-Ljubljana,IJS(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017506&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820,  &lt;a href='http://skala.arnes.si/~rumpl/backbone/dwdm/www_dokumentacija/sheme/ADVA_optika_Telekom_TPL-IJS_ID9017506.pdf'&gt;povezave preko tega vlakna&lt;/a&gt;">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ijs'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="0.5" color="#FF0000" width="2" html="Optika IJS - ŠCLJ, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017560&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820 ">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='lj-scl'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="1" color="#FF0000" width="2" html="Optika IJS - ŠCLJ, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017560&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820 ">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='lj-scl'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optika IJS - ŠCLJ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRIJSSCLJ '&gt;ID101035, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='lj-scl'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika IJS - ŠCLJ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRIJSSCLJ '&gt;ID101035, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='lj-scl'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika ŠCLJ - MIZŠ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRSCLJMIZS '&gt;ID101036, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-scl'/>-->
+<!--		<point id='lj-mss'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.8" color="#FF0000" width="2" html="Optika ŠCLJ - MIZŠ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRSCLJMIZS '&gt;ID101036, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-scl'/>-->
+<!--		<point id='lj-mss'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika ŠCLJ - Telekom Slovenije (Cigaletova 10), JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017561&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820 ">-->
+<!--		<point id='lj-scl'/>-->
+<!--		<point id='lj-sipax'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.2" color="#FF0000" width="2" html="Optika ŠCLJ - Telekom Slovenije (Cigaletova 10), JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017561&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820 ">-->
+<!--		<point id='lj-scl'/>-->
+<!--		<point id='lj-sipax'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika IJS - MJU, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,IJS-Ljubljana,MPJU,Langusova(porazpisuOptika2010-1):'&gt;ID 9017559&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820 ">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='lj-mju'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="1" color="#FF0000" width="2" html="Optika IJS - MJU, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,IJS-Ljubljana,MPJU,Langusova(porazpisuOptika2010-1):'&gt;ID 9017559&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820 ">-->
+<!--		<point id='lj-ijs'/>-->
+<!--		<point id='lj-mju'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika MJU - Telekom Slovenije (Cigaletova 10), katero nam je dal &lt;a href='http://wiki.arnes.si:8080/display/hw/Prevezava+optike+na+MPJU'&gt; v uporabo MJU&lt;/a&gt;">-->
+<!--		<point id='lj-mju'/>-->
+<!--		<point id='lj-sipax'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.8" color="#FF0000" width="2" html="Optika MJU - Telekom Slovenije (Cigaletova 10), katero nam je dal &lt;a href='http://wiki.arnes.si:8080/display/hw/Prevezava+optike+na+MPJU'&gt; v uporabo MJU&lt;/a&gt;">-->
+<!--		<point id='lj-mju'/>-->
+<!--		<point id='lj-sipax'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optika Telekom Slovenije (Cigaletova 10) - MIZŠ, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017515&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-sipax'/>-->
+<!--		<point id='lj-mss'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.9" color="#FF0000" width="2" html="Optika Telekom Slovenije (Cigaletova 10) - MIZŠ, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017515&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-sipax'/>-->
+<!--		<point id='lj-mss'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="1" color="#FF0000" width="2" html="Optika MIZŠ - ZRSŠ, JN 2016, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,MIZ%C5%A0-Ljubljana,ZRS%C5%A0(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017507&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-mss'/>-->
+<!--		<point id='lj-zss'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="0.7" color="#FF0000" width="2" html="Optika MIZŠ - ZRSŠ, JN 2016, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,MIZ%C5%A0-Ljubljana,ZRS%C5%A0(porazpisuKomunikacijskepovezave2016-1):'&gt;ID 9017507&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-mss'/>-->
+<!--		<point id='lj-zss'/>-->
+<!--	</line>		-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.7" color="#FF0000" width="2" html="Optika MIZŠ - ZRSŠ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-MIZSZRSS:'&gt;ID101037, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-mss'/>-->
+<!--		<point id='lj-zss'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika MIZŠ - ZRSŠ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-MIZSZRSS:'&gt;ID101037, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-mss'/>-->
+<!--		<point id='lj-zss'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optika ZRSŠ - KC, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-ZRSSKC:'&gt;ID101038&lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-zss'/>-->
+<!--		<point id='lj-kc'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika ZRSŠ - KC, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-ZRSSKC:'&gt;ID101038&lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-zss'/>-->
+<!--		<point id='lj-kc'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="3" color="#FF0000" width="2" html="Optika KC - Ekonomska fakulteta, UNI-LJ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-KCICPE:'&gt;ID101039&lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-kc'/>-->
+<!--		<point id='lj-ef'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="3.5" color="#FF0000" width="2" html="Optika KC - Ekonomska fakulteta, UNI-LJ, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-KCICPE:'&gt;ID101039&lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-kc'/>-->
+<!--		<point id='lj-ef'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika Ekonomska fakulteta UNI-LJ - CDI Univerzum, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IREFCDI '&gt;ID101040, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-ef'/>-->
+<!--		<point id='lj-cdi'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.2" color="#FF0000" width="2" html="Optika Ekonomska fakulteta UNI-LJ - CDI Univerzum, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IREFCDI '&gt;ID101040, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-ef'/>-->
+<!--		<point id='lj-cdi'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.5" color="#FF0000" width="2" html="Optika Ekonomska fakulteta - FDV, optika Arnes, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-KCICPE:'&gt;glej podatke pod IR optika ID101039&lt;/a&gt;">-->
+<!--		<point id='lj-ef'/>-->
+<!--		<point id='lj-fdv'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="1" color="#FF0000" width="2" html="Optika Ekonomska fakulteta - FDV, optika Arnes, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-KCICPE:'&gt;glej podatke pod IR optika ID101039&lt;/a&gt;">-->
+<!--		<point id='lj-ef'/>-->
+<!--		<point id='lj-fdv'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optika FDV - ICPE, optika Arnes in UNI-LJ, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-KCICPE:'&gt;glej podatke pod IR optika ID101039&lt;/a&gt;">-->
+<!--		<point id='lj-fdv'/>-->
+<!--		<point id='lj-icpe'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="L" curv="1" color="#FF0000" width="2" html="Optika FDV - ICPE, optika Arnes in UNI-LJ, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-KCICPE:'&gt;glej podatke pod IR optika ID101039&lt;/a&gt;">-->
+<!--		<point id='lj-fdv'/>-->
+<!--		<point id='lj-icpe'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.7" color="#FF0000" width="2" html="Optika ICPE - Knjižnica Šiška, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017566&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-icpe'/>-->
+<!--		<point id='lj-ks'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="2.2" color="#FF0000" width="2" html="Optika Knjižnica Šiška - TPL, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017567&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-tplj'/>-->
+<!--		<point id='lj-ks'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="2.5" color="#FF0000" width="2" html="Optika Knjižnica Šiška - TPL, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017567&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-ks'/>-->
+<!--		<point id='lj-tplj'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="2.0" color="#FF0000" width="2" html="Optika ICPE - Knjižnica Šiška, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Ljubljana,GHM(porazpisuOptika2010-1):'&gt;ID 9017566&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='lj-ks'/>-->
+<!--		<point id='lj-icpe'/>-->
+<!--	</line>	-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.5" color="#FF0000" width="2" html="Optika CDI Univerzum - TPL, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRCDITPL '&gt;ID101041, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-cdi'/>-->
+<!--		<point id='lj-tplj'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="lj" turn="R" curv="1.2" color="#FF0000" width="2" html="Optika CDI Univerzum - TPL, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IRCDITPL '&gt;ID101041, OPOMBA: to vlakno NI v produkciji &lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='lj-cdi'/>-->
+<!--		<point id='lj-tplj'/>-->
+<!--	</line>-->
+<!--	-->
+<!--	-->
+<!--																										-->
+<!--&lt;!&ndash;  **************************** MARIBOR ****************************************** &ndash;&gt;	-->
+<!--&lt;!&ndash;  ********************* Optične povezave  ******************************* &ndash;&gt;-->
+<!--	<line typ="opt" globalLoc="mb" curv="1.7" turn="R" color="#FF0000" width="2" html="Optika IZUM - II. Gimnazija Maribor, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Maribor,IZUM-MariborII.gimnazija(porazpisuOptika2010-1):'&gt;ID 9017550&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='mb-izum'/>-->
+<!--		<point id='mb-gim'/>-->
+<!--	</line>-->
+<!--	<line typ="opt" globalLoc="mb" curv="1.5" turn="R" color="#FF0000" width="2" html="Optika IZUM - II. Gimnazija Maribor, JN 2010, ponudnik Telekom, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=4525152#NajetaoptikapriTelekomuSlovenija(+stro%C5%A1kikolokacijinspremstva)-Maribor,IZUM-MariborII.gimnazija(porazpisuOptika2010-1):'&gt;ID 9017550&lt;/a&gt;, noc.core@telekom.si, 01-5113232 ali 01-2346820">-->
+<!--		<point id='mb-izum'/>-->
+<!--		<point id='mb-gim'/>-->
+<!--	</line>-->
+<!--		<line typ="opt" globalLoc="mb" curv="8" turn="L" color="#FF0000" width="2" html="Optika IZUM - II. Gimnazija Maribor, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IZUM2GIMNAZIJA'&gt;ID102015&lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='mb-izum'/>-->
+<!--		<point id='mb-gim'/>-->
+<!--	</line>-->
+<!--			<line typ="opt" globalLoc="mb" curv="8.2" turn="L" color="#FF0000" width="2" html="Optika IZUM - II. Gimnazija Maribor, IR optika, ponudnik Telemach, &lt;a href='http://wiki.arnes.si:8080/pages/viewpage.action?pageId=25690343#IROptikazabackbonepovezave(Maribor,Ljubljana)-IZUM2GIMNAZIJA'&gt;ID102015&lt;/a&gt;, &lt;a href='http://wiki.arnes.si:8080/display/NOC/Telemach+-+IR+optika'&gt;prijava napak&lt;/a&gt;">-->
+<!--		<point id='mb-izum'/>-->
+<!--		<point id='mb-gim'/>-->
+<!--	</line>-->
+
+
+</markers>

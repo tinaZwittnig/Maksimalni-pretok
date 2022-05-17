@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<markers>
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Italija ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="trs" globalLoc="it" lat="45.6596972" lng="13.7968611" html="Vozlišče Trst, Università degli Studi di Trieste(GARR PoP), Via Alfonso Valerio 12, 34127 Trieste, Italy" label="Trieste"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Slovenija ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="ajd" globalLoc="ajd" lat="45.8914444" lng="13.9030472" html="Vozlišče Ajdovščina, Osnovna Šola Danila Lokarja Ajdovšcina, Cesta 5. maja 15, Ajdovščina" label="Ajdovščina"/>
+	<marker id="ble" globalLoc="sl" lat="46.3588416" lng="14.1161111" html="Vozlišče Bled, Elektro RTP Bled, Cankarjeva 50, Bled" label="Bled"/>
+	<marker id="ber" globalLoc="sl" lat="46.0907611" lng="14.6118972" html="Optični delilnik, Elektro RTP Beričevo, Beričevo 70, Beričevo" label="Beričevo"/>
+	<marker id="cel" globalLoc="sl" lat="46.2333055" lng="15.2653138" html="Vozlišče Celje, Ekonomska šola Celje, Kosovelova ulica 4, Celje" label="Celje"/>
+	<marker id="crn" globalLoc="sl" lat="45.5658806" lng="15.1890556" html="Vozlišče Črnomelj, Srednja šola Črnomelj, Kidričeva ulica 18A, Črnomelj" label="Črnomelj"/>
+	<marker id="bre" globalLoc="sl" lat="45.9074417" lng="15.6049083" html="Vozlišče Brežice, Ekonomska in trgovska šola Brežice, Bizeljska cesta 45, Brežice" label="Brežice"/>
+	<marker id="dra" globalLoc="sl" lat="46.5851500" lng="15.0204361" html="Vozlišče Dravograd, Dravske elektrarne Maribor d.o.o., Elektrarna Dravograd, Meža 133, Dravograd" label="Dravograd"/>
+	<marker id="dom" globalLoc="sl" lat="46.1427389" lng="14.5977861" html="Vozlišče Domžale, Srednja šola Domžale - učne delavnice (objekt U), Ljubljanska cesta 105, Domžale" label="Domžale"/>
+	<marker id="grad" globalLoc="sl" lat="46.6744611" lng="15.9902806" html="Vozlišče Gornja Radgona, Osnovna šola Gornja Radgona, Prežihova 1, Gornja Radgona" label="Gornja Radgona"/>
+	<marker id="gros" globalLoc="sl" lat="45.9532028" lng="14.6587361" html="vozlišče Grosuplje, Osnovna šola Louisa Adamiča Grosuplje, Tovarniška cesta 14, Grosuplje" label="Grosuplje"/>
+	<marker id="idr" globalLoc="sl" lat="46.0009417" lng="14.0214722" html="vozlišče Idrija, Občina Idrija, Mestni trg 2, Idrija" label="Idrija"/>
+	<marker id="izo" globalLoc="sl" lat="45.5353142" lng="13.6582803" html="Vozlišče Izola, Srednja šola Izola, Prekomorskih brigad 7, Izola" label="Izola"/>
+	<marker id="jes" globalLoc="sl" lat="46.4359472" lng="14.0604444" html="Vozlišče Jesenice, Gimnazija Jesenice, Trg Toneta Čufarja 1, Jesenice" label="Jesenice"/>
+	<marker id="kam" globalLoc="sl" lat="46.2210883" lng="14.6113014" html="Vozlišče Kamnik, Gimnazija in srednja šola Rudolfa Maistra Kamnik, Novi trg 41 A, Kamnik" label="Kamnik"/>
+	<marker id="koc" globalLoc="sl" lat="45.6410780" lng="14.8578860" html="Vozlišče Kočevje, Gimnazija in srednja šola Kočevje, Ljubljanska cesta 12, Kočevje" label="Kočevje"/>
+	<marker id="kop" globalLoc="sl" lat="45.5479667" lng="13.7291639" html="Vozlišče Koper, Univerza na Primorskem, Titov trg 4, Koper" label="Koper"/>
+	<marker id="kra" globalLoc="sl" lat="46.2511583" lng="14.3494750" html="Vozlišče Kranj, Univerza v Mariboru, Fakulteta za organizacijske vede, Kidričeva cesta 55A, Kranj" label="Kranj"/>
+	<marker id="len" globalLoc="sl" lat="46.5647667" lng="16.4476056" html="Vozlišče Lendava, Dvojezična srednja šola Lendava, Kolodvorska ulica 2E, Lendava" label="Lendava"/>
+	<marker id="lit" globalLoc="sl" lat="46.0626028" lng="14.8191722" html="Vozlišče Litija, Gimnazija Litija, Bevkova ulica 1C, Litija" label="Litija"/>
+	<marker id="ljut" globalLoc="sl" lat="46.522345" lng="16.1948561" html="Vozlišče Ljutomer, Gimnazija Franca Miklošiča Ljutomer, Prešernova ulica 34, Ljutomer" label="Ljutomer"/>
+	<marker id="log" globalLoc="sl" lat="45.9163250" lng="14.2296806" html="Vozlišče Logatec, Osnovna šola osmih talcev Logatec, Notranjska cesta 3, Logatec" label="Logatec"/>
+	<marker id="mur" globalLoc="sl" lat="46.6590416" lng="16.1629500" html="Vozlišče Murska Sobota, Pokrajinska in študijska knjižnica Murska Sobota, Zvezna ulica 10, Murska Sobota" label="Murska Sobota"/>
+	<marker id="ngo" globalLoc="sl" lat="45.9568170" lng="13.6430470" html="Vozlišče Nova Gorica, Šolski center Nova Gorica, Stavba MIC, Cankarjeva ulica 8A, Nova Gorica" label="Nova Gorica"/>
+	<marker id="nme" globalLoc="sl" lat="45.8048055" lng="15.1671249" html="Vozlišče Novo Mesto, Knjižnica Mirana Jarca, Rozmanova ulica 28, Novo mesto" label="Novo mesto"/>
+	<marker id="orm" globalLoc="sl" lat="46.4103306" lng="16.1541509" html="Vozlišče Ormož, Gimnazija Ormož, Hardek 5A, Ormož" label="Ormož"/>
+	<marker id="por" globalLoc="sl" lat="45.5161055" lng="13.5795361" html="Vozlišče Portorož, Univerza v Ljubljani, Fakulteta za pomorstvo in promet, Pot pomorščakov 4 " label="Portorož"/>
+	<marker id="ptu" globalLoc="sl" lat="46.4261277" lng="15.8699527" html="Vozlišče Ptuj, Šolski center Ptuj, Volkmerjeva cesta 19, Ptuj" label="Ptuj"/>
+	<marker id="radov" globalLoc="sl" lat="46.3426500" lng="14.1719361" html="Vozlišče Radovljica, Ekonomska gimnazija in srednja šola Radovljica, Gorenjska cesta 13, Radovljica" label="Radovljica"/>
+	<marker id="radenci" globalLoc="sl" lat="46.6432361" lng="16.0389667" html="Vozlišče Radenci, Srednja šola za gostinstvo in turizem, Mladinska ulica 5, Radenci" label="Radenci"/>
+	<marker id="rav" globalLoc="sl" lat="46.5408722" lng="14.9571555" html="Vozlišče Ravne na Koroškem, Šolski center Ravne na Koroškem, Na gradu 4, Ravne na Koroškem " label="Ravne na Koroškem"/>
+	<marker id="ruse" globalLoc="sl" lat="46.5451750" lng="15.5101306" html="Vozlišče Ruše, Gimnazija in srednja kemijska šola Ruše, Šolska ulica 16, Ruše" label="Ruše"/>
+	<marker id="sen" globalLoc="sl" lat="45.7209611" lng="14.0386194" html="Vozlišče Senožeče, Telekom Slovenije, Senožeče 143, Senožeče" label="Senožeče"/>
+	<marker id="sez" globalLoc="sl" lat="45.7057638" lng="13.8684000" html="Vozlišče Sežana, Osnovna šola Srečka Kosovela Sežana, Kosovelova ulica 6, Sežana" label="Sežana"/>
+	<marker id="stj" globalLoc="sl" lat="46.2207361" lng="15.3958611" html="Vozlišče Šentjur pri Celju, Osnovna šola Franja Malgaja Šentjur, Skladateljev Ipavcev 2, Šentjur pri Celju" label="Šentjur pri Celju"/>
+	<marker id="skl" globalLoc="sl" lat="46.1697139" lng="14.3024500" html="Vozlišče Škofja Loka, Šolski center Škofja Loka, Podlubnik 1B, Škofja Loka" label="Škofja Loka"/>
+	<marker id="sgr" globalLoc="sl" lat="46.5056944" lng="15.0840805" html="Vozlišče Slovenj Gradec, Druga osnovna šola Slovenj Gradec, Kopališka 29, Slovenj Gradec " label="Slovenj Gradec"/>
+	<marker id="sbi" globalLoc="sl" lat="46.3905055" lng="15.5679972" html="Vozlišče Slovenska Bistrica, Srednja šola Slovenska Bistrica, Ul. dr. Jožeta Pučnika 21, Slovenska Bistrica" label="Slovenska Bistrica"/>
+	<marker id="skon" globalLoc="sl" lat="46.3380833" lng="15.4195500" html="Vozlišče Slovenske Konjice, Osnovna šola Pod goro Slovenske Konjice, Šolska ulica 3, Slovenske Konjice" label="Slovenske Konjice"/>
+	<marker id="tol" globalLoc="sl" lat="46.1832611" lng="13.7316722" html="Vozlišče Tolmin, Knjižnica Cirila Kosmača, Tumov drevored 6, Tolmin" label="Tolmin"/>
+	<marker id="trb" globalLoc="sl" lat="46.1575111" lng="15.0554027" html="Vozlišče Trbovlje, Gimnazija in ekonomska srednja šola Trbovlje, Gimnazijska cesta 10, Trbovlje " label="Trbovlje"/>
+	<marker id="vel" globalLoc="sl" lat="46.3617444" lng="15.1136166" html="Vozlišče Velenje, Šolski center Velenje, Trg mladosti 3, Velenje" label="Velenje"/>
+	<marker id="vip" globalLoc="sl" lat="45.8400444" lng="13.9614500" html="Vozlišče Vipava, Osnovna šola Draga Bajca, Vinarska cesta 4, Vipava" label="Vipava"/>
+	<marker id="vrh" globalLoc="sl" lat="45.9626194" lng="14.2967389" html="Vozlišče Vrhnika, Osnovna šola Ivana Cankarja, Lošca 1, Vrhnika" label="Vrhnika"/>
+	<marker id="zos" globalLoc="sl" lat="46.1391639" lng="14.9867194" html="Vozlišče Zagorje ob Savi, Osnovna šola Toneta Okrogarja, Šolska ulica 1, Zagorje ob Savi" label="Zagorje ob Savi"/>
+	<marker id="grosuplje" globalLoc="sl" lat="45.9560528" lng="14.6533361" html="Optični delilnik Grosuplje, Telekom Slovenije, Taborska cesta 5, Grosuplje" label="Optični delilnk Grosuplje"/>
+	<marker id="rtpsg" globalLoc="sl" lat="46.5000389" lng="15.0915750" html="Optični delilnik Elektro RTP Slovenj Gradec" label="Optični delilnik RTP Slovenj Gradec"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Ljubljana ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="lj-ks" globalLoc="lj" lat="46.0764247" lng="14.4813876" html="Vozlišče Mestna knjižnica Ljubljana - enota knjižnica Šiška, Trg komandanta Staneta 8, Ljubljana" label="Ljubljana - Mestna knjižnica Ljubljana, enota knjižnica Šiška"/>
+	<marker id="lj-tplj" globalLoc="lj" lat="46.0499444" lng="14.4604444" html="Vozlišče Tehnološki park Ljubljana, Tehnološki park 19, Ljubljana" label="Ljubljana - Tehnološki park Ljubljana"/>
+	<marker id="lj-ijs" globalLoc="lj" lat="46.0421473" lng="14.4888961" html="Vozlišče Institut Jožef Stefan, Jamova ulica 39, Ljubljana" label="Ljubljana - Institut Jožef Stefan"/>
+	<marker id="lj-icpe" globalLoc="lj" lat="46.0734390" lng="14.5118343" html="Vozlišče Arnes, Dunajska 104, Ljubljana" label="Ljubljana - Dunajska 104"/>
+	<marker id="lj-sipax" globalLoc="lj" lat="46.0570777" lng="14.5072666" html="Vozlišče Telekom Slovenije d.d., Cigaletova ulica 10, Ljubljana" label="Ljubljana - Telekom Slovenije, Cigaletova ulica 10"/>
+	<marker id="lj-kc" globalLoc="lj" lat="46.0537361" lng="14.5213166" html="Vozlišče Univerzitetni klinični center, Zaloška 7, Ljubljana" label="Ljubljana - Univerzitetni klinični center"/>
+	<marker id="lj-zss" globalLoc="lj" lat="46.0489194" lng="14.5185805" html="Vozlišče Zavod RS za šolstvo, Poljanska cesta 28, Ljubljana" label="Ljubljana - Zavod RS za šolstvo"/>
+	<marker id="lj-mss" globalLoc="lj" lat="46.0575571" lng="14.5156913" html="Vozlišče Ministrstvo za izobraževanje, znanost in šport, Masarykova 16, Ljubljana" label="Ljubljana - Ministrstvo za izobraževanje, znanost in šport"/>
+	<marker id="lj-scl" globalLoc="lj" lat="46.0462916" lng="14.4999194" html="Vozlišče Šolski center Ljubljana, Aškerčeva cesta 1, Ljubljana" label="Ljubljana - Šolski center Ljubljana"/>
+	<marker id="lj-mju" globalLoc="lj" lat="46.0456833" lng="14.4918306" html="Optični delilnik Ministrstvo za javno upravo, Direktorat za informacijsko družbo in informatiko, Langusova 4, Ljubljana" label="Ljubljana - MJU"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Maribor ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="mb-izum" globalLoc="mb" lat="46.5636111" lng="15.6514361" html="Vozlišče IZUM, Prešernova 17, Maribor" label="Maribor - vozlišče IZUM"/>
+	<marker id="mb-gim" globalLoc="mb" lat="46.5489944" lng="15.6442972" html="Vozlišče II. gimnazija Maribor, Trg Miloša Zidanška 1, Maribor" label="Maribor - II. gimnazija Maribor"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Krško ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="kk-tk" globalLoc="kk" lat="45.9583111" lng="15.4956917" html="Vozlišče Telekom Slovenije, Rozmanova ulica 1, Krško" label="Krško - Telekom Slovenije"/>
+	<marker id="kk-fl" globalLoc="kk" lat="45.9679110" lng="15.4839580" html="Vozlišče Univerza v Mariboru, Fakulteta za logistiko, Hočevarjev trg 1, Krško" label="Krško - UM, Fakulteta za logistiko"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Postojna ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="po-tk" globalLoc="po" lat="45.7743306" lng="14.2138056" html="Postojna - Telekom Slovenije, Ulica 1. maja 2A, Postojna" label="Postojna - Telekom Slovenije"/>
+	<marker id="po-sc" globalLoc="po" lat="45.7704138" lng="14.2112944" html="Postojna - Šolski center Postojna, Cesta v Staro vas 2, Postojna" label="Postojna - Šolski center Postojna"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Rogaška Slatina ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="rs-sc" globalLoc="rs" lat="46.2222611" lng="15.6438889" html="Vozlišče Rogaška Slatina, Srednješolski center Rogaška Slatina, Steklarska ulica 1, Rogaška Slatina" label="Rogaška Slatina"/>
+	<marker id="rs-tk" globalLoc="rs" lat="46.2346833" lng="15.6386833" html="Vozlišče Rogaška Slatina, Telekom Slovenije, Kidričeva ulica 3, Rogaška Slatina" label="Rogaška Slatina"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Laško ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="las-el" globalLoc="las" lat="46.1692500" lng="15.2339083" html="Vozlišče Laško, Elektro RTP Laško, Celjska cesta 50, Laško" label="Laško"/>
+	<marker id="las-os" globalLoc="las" lat="46.1528611" lng="15.2363750" html="Vozlišče Laško, Osnovna šola Primoža Trubarja Laško, Trubarjeva ulica 20, Laško" label="Laško"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Divača ****************** -->
+<!-- ******************************************************************** -->
+	<marker id="div-os" globalLoc="sl" lat="45.6828305" lng="13.9675694" html="Vozlišče Divača, Osnovna šola dr. Bogomirja Magajne, Ulica dr. Bogomira Magajne 4, Divača" label="Divača"/>
+	<marker id="div-rtp1" globalLoc="sl" lat="45.6900056" lng="13.9664750" html="Optični delilnik1, Elektro RTP Divača, Kraška cesta 1, Divača" label="Divača"/>
+	<marker id="div-rtp2" globalLoc="sl" lat="45.6900028" lng="13.9663556" html="Optični delilnik2, Elektro RTP Divača, Kraška cesta 1, Divača" label="Divača"/>
+	<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Ljubljana ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='lj-ks' 		globalLoc="lj" lat="46.0764247" lng="14.4813876" html="Vozlišče Mestna knjižnica Ljubljana - enota knjižnica Šiška, Trg komandanta Staneta 8, Ljubljana" label="Ljubljana - Mestna knjižnica Ljubljana, enota knjižnica Šiška"/>
+	<marker id='lj-tplj' 	globalLoc="lj" lat="46.0499444" lng="14.4604444" html="Vozlišče Tehnološki park Ljubljana, Tehnološki park 19, Ljubljana" label="Ljubljana - Tehnološki park Ljubljana"/>
+	<marker id='lj-ijs'		globalLoc="lj" lat="46.0421473" lng="14.4888961" html="Vozlišče Institut Jožef Stefan, Jamova ulica 39, Ljubljana" label="Ljubljana - Institut Jožef Stefan"/>
+	<marker id='lj-rcijs' 	globalLoc="lj" lat="46.0430000" lng="14.4910000" html="Vozlišče RC IJS Teslova 30, Ljubljana" label="Ljubljana - RC IJS Teslova 30"/>
+	<marker id='lj-icpe' 	globalLoc="lj" lat="46.0734390" lng="14.5118343" html="Vozlišče Mednarodni center ICPE, Dunajska 104, Ljubljana" label="Ljubljana - ICPE"/>
+	<marker id='lj-sipax' 	globalLoc="lj" lat="46.0570777" lng="14.5072666" html="Vozlišče Telekom Slovenije d.d., Cigaletova ulica 10, Ljubljana" label="Ljubljana - Telekom Slovenije, Cigaletova ulica 10"/>
+	<marker id='lj-kc'	 	globalLoc="lj" lat="46.0537361" lng="14.5213166" html="Vozlišče Univerzitetni klinični center, Zaloška 7, Ljubljana" label="Ljubljana - Univerzitetni klinični center"/>
+	<marker id='lj-zss' 	globalLoc="lj" lat="46.0489194" lng="14.5185805" html="Vozlišče Zavod RS za šolstvo, Poljanska cesta 28, Ljubljana" label="Ljubljana - Zavod RS za šolstvo"/>
+	<marker id='lj-mss' 	globalLoc="lj" lat="46.0575571" lng="14.5156913" html="Vozlišče Ministrstvo za izobraževanje, znanost in šport, Masarykova 16, Ljubljana" label="Ljubljana - Ministrstvo za izobraževanje, znanost in šport"/>
+	<marker id='lj-scl' 	globalLoc="lj" lat="46.0462916" lng="14.4999194" html="Vozlišče Šolski center Ljubljana, Aškerčeva cesta 1, Ljubljana" label="Ljubljana - Šolski center Ljubljana"/>
+	<marker id='lj-mju'		globalLoc="lj" lat="46.0456833" lng="14.4918306" html="Optični delilnik Ministrstvo za notranje zadeve, Direktorat za informatiko in e-storitve, Langusova 4, Ljubljana" label="Ljubljana - MPJU"/>
+	<marker id='lj-ef' 		globalLoc="lj" lat="46.0746056" lng="14.5162056" html="Optični delilnik Ekonomska fakulteta, Univerza v Ljubljani, Kardeljeva ploščad 17, Ljubljana" label="Ljubljana - Univerza v Ljubljani, Ekonomska fakulteta"/>
+	<marker id='lj-fdv' 	globalLoc="lj" lat="46.0746528" lng="14.5143528" html="Optični delilnik FDV, Univerza v Ljubljani, Kardeljeva ploščad 5, Ljubljana" label="Ljubljana - Univerza v Ljubljani, Fakulteta za družbene vede"/>
+	<marker id='lj-cdi' 	globalLoc="lj" lat="46.0745778" lng="14.4829278" html="Optični delilnik Center za dopisno izobraževanje Univerzum, Grošljeva ulica 4, Ljubljana" label="Ljubljana - Univerzum (Šiška)"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Maribor ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='mb-izum'	globalLoc="mb" lat="46.5636111" lng="15.6514361" html="Vozlišče IZUM, Prešernova 17, Maribor" label="Maribor - vozlišče IZUM"/>
+	<marker id='mb-gim'		globalLoc="mb" lat="46.5489944" lng="15.6442972" html="Vozlišče II. gimnazija Maribor, Trg Miloša Zidanška 1, Maribor" label="Maribor - II. gimnazija Maribor"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Krško ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='kk-tk'		globalLoc="kk" lat="45.9583111" lng="15.4956917" html="Vozlišče Telekom Slovenije, Rozmanova ulica 1, Krško" label="Krško - Telekom Slovenije"/>
+	<marker id='kk-fl'		globalLoc="kk" lat="45.9679110" lng="15.4839580" html="Vozlišče Univerza v Mariboru, Fakulteta za logistiko, Hočevarjev trg 1, Krško" label="Krško - UNI-MB, Fakulteta za logistiko"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Postojna ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='po-tk'		globalLoc="po" lat="45.7743306" lng="14.2138056" html="Postojna - Telekom Slovenije, Ulica 1. maja 2A, Postojna" label="Postojna - Telekom Slovenije"/>
+	<marker id='po-sc' 		globalLoc="po" lat="45.7704138" lng="14.2112944" html="Postojna - Šolski center Postojna, Cesta v Staro vas 2, Postojna" label="Postojna - Šolski center Postojna"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Rogaška Slatina ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='rs-sc' globalLoc="rs" lat="46.2222611" lng="15.6438889" html="Vozlišče Rogaška Slatina, Srednješolski center Rogaška Slatina, Steklarska ulica 1, Rogaška Slatina" label="Rogaška Slatina"/>
+	<marker id='rs-tk' globalLoc="rs" lat="46.2346833" lng="15.6386833" html="Vozlišče Rogaška Slatina, Telekom Slovenije, Kidričeva ulica 3, Rogaška Slatina" label="Rogaška Slatina"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Laško ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='las-el' globalLoc="las" lat="46.1692500" lng="15.2339083" html="Vozlišče Laško, RTP Laško, Celjska cesta 50, Laško" label="Laško"/>
+	<marker id='las-os' globalLoc="las" lat="46.1528611" lng="15.2363750" html="Vozlišče Laško, Osnovna šola Primoža Trubarja Laško, Trubarjeva ulica 20, Laško" label="Laško"/>
+	<marker id='las-osdebro' globalLoc="las" lat="46.1660417" lng="15.2304333" html="Optični delilnik, Osnovna šola Primoža Trubarja Laško, podružnica Debro, Poženelova ulica 26, Laško" label="Laško"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Divača ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='div-os' globalLoc="div" lat="45.6828305" lng="13.9675694" html="Vozlišče Divača, Osnovna šola dr. Bogomirja Magajne, Ulica dr. Bogomira Magajne 4, Divača" label="Divača"/>
+	<marker id='div-rtp1' globalLoc="div" lat="45.6900056" lng="13.9664750" html="Optični delilnik1, RTP Divača, Kraška cesta 1, Divača" label="Divača"/>
+	<marker id='div-rtp2' globalLoc="div" lat="45.6900028" lng="13.9663556" html="Optični delilnik2, RTP Divača, Kraška cesta 1, Divača" label="Divača"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Litija ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='lit-gim' globalLoc="lit" lat="46.0626028" lng="14.8191722" html="Vozlišče Litija, Gimnazija Litija, Bevkova ulica 1C, Litija" label="Litija"/>
+	<marker id='lit-sik' globalLoc="lit" lat="46.0587417" lng="14.8267139" html="Optični delilnik, Knjižnica Litija, Parmova ulica 9, Litija" label="Litija"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Litija ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='dom-ssd' globalLoc="sl" lat="46.1427389" lng="14.5977861" html="Vozlišče Domžale, Srednja šola Domžale - učne delavnice (objekt U), Ljubljanska cesta 105, Domžale" label="Domžale"/>
+	<marker id='dom-ijs' globalLoc="sl" lat="46.1404639" lng="14.5934139" html="Optični delilnik, IJS odsek za tanke plasti in površine Domžale, Ljubljanska cesta 80, Domžale" label="Domžale"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Ajdovščina ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='ajd-old' globalLoc="ajd" lat="45.8893530" lng="13.9024110" html="Optični delilnik, stara šola, Cesta 5. maja 7, Ajdovščina" label="Ajdovščina"/>
+	<marker id='ajd-new' globalLoc="ajd" lat="45.8914444" lng="13.9030472" html="Vozlišče Ajdovščina, nova Osnovna Šola Danila Lokarja Ajdovšcina, Cesta 5. maja 15, Ajdovščina" label="Ajdovščina"/>
+	<marker id='ajd-freenet' globalLoc="ajd" lat="45.8840278" lng="13.9038167" html="Optični delilnik FreeNET, prevezava na optiko iz RTP Ajdovščina, Ajdovščina" label="Ajdovščina"/>
+
+<!-- ******************************************************************** -->
+<!-- **************************** VOZLIŠČA - Slovenske Konjice ****************** -->
+<!-- ******************************************************************** -->
+	<marker id='skon-os' globalLoc="skon" lat="46.3380833" lng="15.4195500" html="Vozlišče Slovenske Konjice, Osnovna šola Pod goro Slovenske Konjice, Šolska ulica 3, Slovenske Konjice" label="Slovenske Konjice"/>
+	<marker id='skon-rtp' globalLoc="skon" lat="46.3405889" lng="15.4381444" html="Optični delilnik, RTP Slovenske Konjice, Prevrat 28, Slovenske Konjice" label="Slovenske Konjice"/>
+	<marker id='skon-vvz' globalLoc="skon" lat="46.3397000" lng="15.4296972" html="Optični delilnik, Vrtec Slovenske Konjice - enota Prevrat, Usnjarska cesta 12, Slovenske Konjice" label="Slovenske Konjice"/>
+	
+<!-- ********************************************************************* -->
+<!-- **************************** POVEZAVE -  Slovenija ****************** -->
+<!-- ********************************************************************* -->
+
+<!--  ************************************************************************************ -->
+<!--  ****************************** Optične povezave ************************************ -->
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Senožeče - Sežana">
+		<point id="sen"/>
+		<point id="sez"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Sežana - Trieste">
+		<point id="sez"/>
+		<point id="trs"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Sežana - Trieste">
+		<point id="sez"/>
+		<point id="trs"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="6" color="#FF0000" width="3" html="Optično vlakno Sežana - Nova Gorica (preko Italije)">
+		<point id="trs"/>
+		<point id="ngo"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="6.5" color="#FF0000" width="3" html="Optično vlakno Sežana - Nova Gorica (preko Italije)">
+		<point id="trs"/>
+		<point id="ngo"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Senožeče - Sežana">
+		<point id="sen"/>
+		<point id="sez"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Sežana - Vipava">
+		<point id="sez"/>
+		<point id="vip"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Portorož - Koper">
+		<point id="por"/>
+		<point id="kop"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Koper - Izola">
+		<point id="kop"/>
+		<point id="izo"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Izola - Portorož">
+		<point id="izo"/>
+		<point id="por"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Koper - Divača RTP">
+		<point id="kop"/>
+		<point id="div-rtp1"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optično vlakno Divača RTP - Ajdovščina">
+		<point id="div-rtp1"/>
+		<point id="ajd"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Divača RTP - Divača OŠ">
+		<point id="div-rtp1"/>
+		<point id="div-os"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Divača RTP - Divača OŠ">
+		<point id="div-rtp1"/>
+		<point id="div-os"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optično vlakno Ajdovščina - Nova Gorica">
+		<point id="ajd"/>
+		<point id="ngo"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optično vlakno Ajdovščina - Idrija">
+		<point id="ajd"/>
+		<point id="idr"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.8" color="#FF0000" width="3" html="Optično vlakno Koper - Nova Gorica">
+		<point id="kop"/>
+		<point id="div-rtp2"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="4.5" color="#FF0000" width="3" html="Optično vlakno Koper - Nova Gorica">
+		<point id="div-rtp2"/>
+		<point id="ngo"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optično vlakno Nova Gorica - Tolmin">
+		<point id="ngo"/>
+		<point id="tol"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optično vlakno Tolmin - RTP Bled">
+		<point id="tol"/>
+		<point id="ble"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="3.5" color="#FF0000" width="3" html="Optično vlakno Nova Gorica - RTP Bled">
+		<point id="ngo"/>
+		<point id="ble"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optično vlakno RTP Bled - Kranj">
+		<point id="ble"/>
+		<point id="kra"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno RTP Bled - Kranj">
+		<point id="ble"/>
+		<point id="kra"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Kranj - Ljubljana (IJS)">
+		<point id="kra"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.8" color="#FF0000" width="3" html="Optično vlakno Kranj - Ljubljana (IJS)">
+		<point id="kra"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Ljubljana - Senožeče">
+		<point id="lj-tplj"/>
+		<point id="po-tk"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Ljubljana (TPL) - Senožeče">
+		<point id="po-tk"/>
+		<point id="sen"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Ljubljana (TPL) - Postojna">
+		<point id="lj-tplj"/>
+		<point id="po-sc"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Ljubljana (TPL) - Vrhnika">
+		<point id="lj-tplj"/>
+		<point id="vrh"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0" color="#FF0000" width="3" html="Optično vlakno Postojna - Senožeče">
+		<point id="po-sc"/>
+		<point id="sen"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="3" color="#FF0000" width="3" html="Optično vlakno Senožeče - Portorož">
+		<point id="sen"/>
+		<point id="por"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Senožeče - Divača">
+		<point id="sen"/>
+		<point id="div-os"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="3" color="#FF0000" width="3" html="Optično vlakno Divača - Portorož">
+		<point id="div-os"/>
+		<point id="por"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Ljubljana (TPL) - Novo mesto">
+		<point id="lj-tplj"/>
+		<point id="grosuplje"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.7" color="#FF0000" width="3" html="Optično vlakno Ljubljana (TPL) - Novo mesto">
+		<point id="grosuplje"/>
+		<point id="nme"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Ljubljana (TPL) - Grosuplje">
+		<point id="lj-tplj"/>
+		<point id="gros"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Grosuplje - Kočevje">
+		<point id="gros"/>
+		<point id="koc"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1.3" color="#FF0000" width="3" html="Optično vlakno Kočevje - Novo mesto">
+		<point id="koc"/>
+		<point id="grosuplje"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Kočevje - Novo mesto">
+		<point id="grosuplje"/>
+		<point id="nme"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Črnomelj - Novo mesto">
+		<point id="nme"/>
+		<point id="crn"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Novo mesto - Krško (Telekom)">
+		<point id="nme"/>
+		<point id="kk-tk"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Novo mesto - Krško (UM, Fakulteta za logistiko)">
+		<point id="nme"/>
+		<point id="kk-fl"/>
+	</line>
+		<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Krško (UM, Fakulteta za logistiko) - Brežice">
+		<point id="kk-fl"/>
+		<point id="bre"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1.5" color="#FF0000" width="3" html="Optično vlakno Krško (Telekom) - Rogaška Slatina">
+		<point id="kk-tk"/>
+		<point id="rs-tk"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Krško (Telekom) - Rogaška Slatina">
+		<point id="kk-tk"/>
+		<point id="rs-tk"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="5" color="#FF0000" width="3" html="Optično vlakno Rogaška Slatina - Maribor (IZUM)">
+		<point id="rs-tk"/>
+		<point id="mb-izum"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Rogaška Slatina (Telekom) - Rogaška Slatina (Šolski center)">
+		<point id="rs-tk"/>
+		<point id="rs-sc"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optično vlakno Rogaška Slatina - Ptuj">
+		<point id="rs-tk"/>
+		<point id="ptu"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Ptuj - Maribor (IZUM)">
+		<point id="ptu"/>
+		<point id="mb-izum"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optično vlakno Maribor (IZUM) - Slovenska Bistrica">
+		<point id="mb-izum"/>	
+		<point id="sbi"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Slovenska Bistrica - Slovenske Konjice">
+		<point id="sbi"/>	
+		<point id="skon"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optično vlakno Maribor (IZUM) - Ruše">
+		<point id="mb-izum"/>	
+		<point id="ruse"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Slovenske Konjice - Celje">
+		<point id="skon"/>
+		<point id="cel"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Celje - Šentjur pri Celju">
+		<point id="cel"/>
+		<point id="stj"/>+
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="6" color="#FF0000" width="3" html="Optično vlakno Celje - RTP Laško">
+		<point id="cel"/>
+		<point id="las-el"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Trbovlje - RTP Laško">
+		<point id="las-el"/>
+		<point id="trb"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno RTP Beričevo - Trbovlje">
+		<point id="trb"/>
+		<point id="ber"/>
+	</line>
+		<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Trbovlje - Zagorje ob Savi">
+		<point id="trb"/>
+		<point id="zos"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Ljubljana (IJS) - RTP Beričevo">
+		<point id="lj-ijs"/>
+		<point id="ber"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1.5" color="#FF0000" width="3" html="Optično vlakno Ljubljana (IJS) - RTP Beričevo">
+		<point id="lj-ijs"/>
+		<point id="ber"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno RTP Beričevo - RTP Laško">
+		<point id="ber"/>
+		<point id="las-el"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="2.4" color="#FF0000" width="3" html="Optično vlakno RTP Laško - Maribor (IZUM)">
+		<point id="las-el"/>
+		<point id="mb-izum"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Celje - Dravograd">
+		<point id="cel"/>
+		<point id="rtpsg"/>	
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Celje - Dravograd">
+		<point id="rtpsg"/>
+		<point id="dra"/>	
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.7" color="#FF0000" width="3" html="Optično vlakno Celje - Velenje">
+		<point id="cel"/>
+		<point id="vel"/>	
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Velenje - Slovenj Gradec">
+		<point id="vel"/>
+		<point id="rtpsg"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Velenje - Slovenj Gradec">
+		<point id="rtpsg"/>
+		<point id="sgr"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1.5" color="#FF0000" width="3" html="Optično vlakno Slovenj Gradec - Dravograd">
+		<point id="sgr"/>
+		<point id="rtpsg"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="1" color="#FF0000" width="3" html="Optično vlakno Slovenj Gradec - Dravograd">
+		<point id="rtpsg"/>
+		<point id="dra"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Dravograd - Ravne na Koroškem">
+		<point id="dra"/>
+		<point id="rav"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Dravograd - Maribor (IZUM)">
+		<point id="dra"/>
+		<point id="mb-izum"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Dravograd - Maribor (IZUM)">
+		<point id="dra"/>
+		<point id="mb-izum"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.8" color="#FF0000" width="3" html="Optično vlakno Maribor (IZUM) - Murska Sobota">
+		<point id="mb-izum"/>
+		<point id="mur"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Maribor (IZUM) - Gornja Radgona">
+		<point id="mb-izum"/>
+		<point id="grad"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Gornja Radgona - Radenci">
+		<point id="grad"/>
+		<point id="radenci"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optično vlakno Radenci - Murska Sobota">
+		<point id="radenci"/>
+		<point id="mur"/>
+	</line>
+		<line typ="opt" globalLoc="sl" turn="R" curv="2" color="#FF0000" width="3" html="Optično vlakno Murska Sobota - Lendava">
+		<point id="mur"/>
+		<point id="len"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Ljubljana (IJS) - Kamnik">
+		<point id="lj-ijs"/>
+		<point id="kam"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="0.5" color="#FF0000" width="3" html="Optično vlakno Kamnik - Celje">
+		<point id="kam"/>
+		<point id="cel"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="L" curv="4" color="#FF0000" width="3" html="Optično vlakno Ptuj - Murska Sobota">
+		<point id="ptu"/>
+		<point id="mur"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="L" curv="2" color="#FF0000" width="3" html="Optično vlakno Ptuj - Ormož">
+		<point id="ptu"/>
+		<point id="orm"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="4" color="#FF0000" width="3" html="Optično vlakno Ormož - Ljutomer">
+		<point id="orm"/>
+		<point id="ljut"/>
+	</line>	
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.5" color="#FF0000" width="3" html="Optično vlakno Ljutomer - Murska Sobota">
+		<point id="ljut"/>
+		<point id="mur"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Kranj - Jesenice">
+		<point id="kra"/>
+		<point id="jes"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Kranj - Radovljica">
+		<point id="kra"/>
+		<point id="radov"/>
+	</line>
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Radovljica - Jesenice">
+		<point id="radov"/>
+		<point id="jes"/>
+	</line>						
+	<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Ljubljana (TPL) - Logatec">
+		<point id="lj-tplj"/>
+		<point id="log"/>
+	</line>		
+		<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Kranj - Škofja Loka">
+		<point id="kra"/>
+		<point id="skl"/>
+	</line>	
+		<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Ljubljana (MIZŠ) - Domžale">
+		<point id="lj-mss"/>
+		<point id="dom"/>
+	</line>				
+		<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Ljubljana (MIZŠ) - Litija">
+		<point id="lj-mss"/>
+		<point id="lit"/>
+	</line>	
+		<line typ="opt" globalLoc="sl" turn="R" curv="1.2" color="#FF0000" width="3" html="Optično vlakno Ljubljana (IJS) - Celje">
+		<point id="cel"/>
+		<point id="lj-ijs"/>
+	</line>
+		<line typ="opt" globalLoc="sl" turn="R" curv="1" color="#FF0000" width="3" html="Optično vlakno Ljubljana (IJS) - Celje">
+		<point id="cel"/>
+		<point id="lj-ijs"/>
+	</line>
+			
+<!--  ************************************************************************************ -->	
+<!--  ****************************** Vzpostavljene povezave (hitrosti) ************************* -->
+<!--  ************************************************************************************ -->	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#B325B8" width="6" html="20 Gb/s povezava Ljubljana - Maribor preko Novega mesta">
+		<point id="lj-tplj"/>
+		<point id="split" lat="45.359845" lng="15.411230"/>
+		<point id="split" lat="45.798051" lng="15.888061"/>
+		<point id="mb-izum"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#DCC944" width="6" html="200 Gb/s povezava Ljubljana - Maribor preko Novega mesta">
+		<point id="lj-tplj"/>
+		<point id="split" lat="45.459845" lng="15.511230"/>
+		<point id="split" lat="45.898051" lng="15.988061"/>
+		<point id="mb-izum"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#B325B8" width="6" html="20 Gb/s povezava Ljubljana - Maribor preko Celja in Dravograda">
+		<point id="lj-ijs"/>
+		<point id="split" lat="46.614225" lng="14.975355"/>
+		<point id="split" lat="46.614225" lng="14.975355"/>
+		<point id="mb-izum"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Celje">
+		<point id="lj-ijs"/>
+		<point id="cel"/>
+	</line>
+		<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Celje - Šentjur pri Celju">
+		<point id="cel"/>
+		<point id="stj"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Celje - Maribor preko Dravograda">
+		<point id="cel"/>
+		<point id="split" lat="46.591094" lng="15.131736"/>
+		<point id="split" lat="46.591094" lng="15.131736"/>
+		<point id="mb-izum"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Koper preko Senožeč in Portoroža">
+		<point id="lj-tplj"/>
+		<point id="split" lat="45.66012730272194" lng="14.1998291015625"/>
+		<point id="split" lat="45.66012730272194" lng="14.1998291015625"/>
+		<point id="kop"/>
+	</line>		
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Koper preko Kranja in Bleda">
+		<point id="lj-ijs"/>
+		<point id="split" lat="46.95399993718925" lng="14.6558837890625"/>
+		<point id="split" lat="46.3511496866914" lng="12.9002099609375"/>
+		<point id="kop"/>
+	</line>			
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Nova Gorica preko Kranja">
+		<point id="lj-ijs"/>
+		<point id="split" lat="46.39692761055676" lng="14.326171875"/>
+		<point id="split" lat="46.39123949998618" lng="13.74664306640625"/>
+		<point id="ngo"/>
+	</line>		
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Nova Gorica preko Kopra in Senožeč">
+		<point id="lj-tplj"/>
+		<point id="sen"/>
+		<point id="kop"/>
+		<point id="ngo"/>
+	</line>		
+			<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Logatec">
+		<point id="lj-tplj"/>
+		<point id="log"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="3" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Kranj">
+		<point id="lj-ijs"/>
+		<point id="kra"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Kranj - Škofja Loka">
+		<point id="kra"/>
+		<point id="skl"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1.3" color="#B325B8" width="5" html="20 Gb/s povezava Ljubljana - Novo mesto">
+		<point id="lj-ijs"/>
+		<point id="nme"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Kranj - Koper preko Bleda in Nove Gorice">
+		<point id="kra"/>
+		<point id="split" lat="46.80031853924921" lng="14.33990478515625"/>
+		<point id="split" lat="46.20973514453878" lng="13.0099365234375"/>		
+		<point id="kop"/>
+	</line>		
+	<line typ="vzp" globalLoc="sl" turn="L" curv="0.5" color="#485E88" width="5" html="10 Gb/s povezava Senožeče - Sežana">
+		<point id="sen"/>
+		<point id="sez"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="0.5" color="#485E88" width="5" html="10 Gb/s povezava Sežana - Vipava">
+		<point id="sez"/>
+		<point id="vip"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="7" color="#00AEEF" width="2" html="1 Gb/s povezava Sežana - Nova Gorica (preko Italije)">
+		<point id="sez"/>
+		<point id="ngo"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Sežana">
+		<point id="lj-tplj"/>
+		<point id="sez"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Postojna">
+		<point id="lj-tplj"/>
+		<point id="po-sc"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Vrhnika">
+		<point id="lj-tplj"/>
+		<point id="vrh"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Postojna - Senožeče">
+		<point id="po-sc"/>
+		<point id="sen"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Kranj">
+		<point id="kra"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Kranj - Bled">
+		<point id="kra"/>
+		<point id="ble"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Bled - Tolmin">
+		<point id="ble"/>
+		<point id="tol"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2.3" color="#485E88" width="5" html="10 Gb/s povezava Tolmin - Nova Gorica">
+		<point id="tol"/>
+		<point id="ngo"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Nova Gorica - Ajdovščina">
+		<point id="ngo"/>
+		<point id="ajd"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ajdovščina - Divača">
+		<point id="ajd"/>
+		<point id="div-os"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ajdovščina - Idrija">
+		<point id="ajd"/>
+		<point id="idr"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Divača - Koper">
+		<point id="div-os"/>
+		<point id="kop"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Portorož - Izola">
+		<point id="por"/>
+		<point id="izo"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Izola - Koper">
+		<point id="izo"/>
+		<point id="kop"/>
+	</line>			
+	<line typ="vzp" globalLoc="sl" turn="L" curv="3.5" color="#485E88" width="5" html="10 Gb/s povezava Divača - Portorož">
+		<point id="div-os"/>
+		<point id="por"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1.5" color="#485E88" width="5" html="10 Gb/s povezava Divača - Senožeče">
+		<point id="div-os"/>
+		<point id="sen"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Grosuplje - Kočevje">
+		<point id="gros"/>
+		<point id="koc"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Grosuplje">
+		<point id="lj-tplj"/>
+		<point id="gros"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#008FC4" width="3" html="2 Gb/s povezava Kočevje - Novo mesto">
+		<point id="koc"/>
+		<point id="nme"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Črnomelj - Novo mesto">
+		<point id="nme"/>
+		<point id="crn"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Novo mesto - Krško (Fakulteta za logistiko)">
+		<point id="nme"/>
+		<point id="kk-fl"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Krško (Fakulteta za logistiko) - Brežice">
+		<point id="kk-fl"/>
+		<point id="bre"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Krško (Fakulteta za logistiko) - Rogaška Slatina (Telekom)">
+		<point id="kk-fl"/>
+		<point id="rs-tk"/>
+	</line>
+		<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#00AEEF" width="2" html="1 Gb/s povezava Krško (Telekom) - Rogaška Slatina (Telekom)">
+		<point id="kk-tk"/>
+		<point id="rs-tk"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2.5" color="#485E88" width="5" html="10 Gb/s povezava Rogaška Slatina (Telekom) - Ptuj">
+		<point id="rs-tk"/>
+		<point id="ptu"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="3" color="#485E88" width="5" html="10 Gb/s povezava Rogaška Slatina (Telekom) - Novo mesto">
+		<point id="rs-tk"/>
+		<point id="nme"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="4" color="#485E88" width="5" html="10 Gb/s povezava Maribor (IZUM) - Novo mesto">
+		<point id="mb-izum"/>
+		<point id="nme"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="3" color="#485E88" width="5" html="10 Gb/s povezava Rogaška Slatina (Telekom) - Rogaška Slatina (Šolski center)">
+		<point id="rs-tk"/>
+		<point id="rs-sc"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2.5" color="#485E88" width="5" html="10 Gb/s povezava Ptuj - Maribor (IZUM)">
+		<point id="ptu"/>
+		<point id="mb-izum"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ptuj - Ormož">
+		<point id="ptu"/>
+		<point id="orm"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ormož - Ljutomer">
+		<point id="orm"/>
+		<point id="ljut"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ljutomer - Murska Sobota">
+		<point id="ljut"/>
+		<point id="mur"/>
+	</line>		
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Murska Sobota - Lendava">
+		<point id="mur"/>
+		<point id="len"/>
+	</line>			
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Maribor (IZUM)- Slovenska Bistrica">
+		<point id="mb-izum"/>
+		<point id="sbi"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="0.5" color="#485E88" width="5" html="10 Gb/s povezava Maribor (IZUM) - Dravograd">
+		<point id="mb-izum"/>
+		<point id="dra"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Maribor - Ruše">
+		<point id="mb-izum"/>
+		<point id="ruse"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Dravograd - Ravne na Koroškem">
+		<point id="dra"/>
+		<point id="rav"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1.5" color="#485E88" width="5" html="10 Gb/s povezava Dravograd - Slovenj Gradec">
+		<point id="dra"/>
+		<point id="sgr"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Slovenj Gradec - Velenje">
+		<point id="sgr"/>
+		<point id="vel"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Velenje - Celje">
+		<point id="vel"/>
+		<point id="cel"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Celje - Laško">
+		<point id="cel"/>
+		<point id="las-el"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2.5" color="#00AEEF" width="2" html="1 Gb/s povezava Maribor - Murska Sobota">
+		<point id="mb-izum"/>
+		<point id="mur"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Maribor - Gornja Radgona">
+		<point id="mb-izum"/>
+		<point id="grad"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Gornja Radgona - Radenci">
+		<point id="grad"/>
+		<point id="radenci"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Radenci - Murska Sobota">
+		<point id="radenci"/>
+		<point id="mur"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Kamnik">
+		<point id="lj-ijs"/>
+		<point id="kam"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Kamnik - Celje">
+		<point id="kam"/>
+		<point id="cel"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#008FC4" width="3" html="2 Gb/s povezava Ljubljana - Trbovlje">
+		<point id="lj-ijs"/>
+		<point id="trb"/>
+	</line>
+		<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Litija">
+		<point id="lj-mss"/>
+		<point id="lit"/>
+	</line>
+			<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ljubljana - Domžale">
+		<point id="lj-mss"/>
+		<point id="dom"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Trbovlje - Laško">
+		<point id="trb"/>
+		<point id="las-el"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Trbovlje - Zagorje ob Savi">
+		<point id="trb"/>
+		<point id="zos"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Celje - Slovenske Konjice">
+		<point id="cel"/>
+		<point id="skon"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Slovenske Konjice - Slovenska Bistrica">
+		<point id="skon"/>
+		<point id="sbi"/>
+	</line>	
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Kranj - Jesenice">
+		<point id="kra"/>
+		<point id="jes"/>
+	</line>
+	<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Kranj - Radovljica">
+		<point id="kra"/>
+		<point id="radov"/>
+	</line>	
+		<line typ="vzp" globalLoc="sl" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Jesenice - Radovljica">
+		<point id="jes"/>
+		<point id="radov"/>
+	</line>	
+
+<!-- ********************************************************************* -->
+<!-- ************************* KRAJEVNE POVEZAVE ************************* -->
+<!-- ********************************************************************* -->
+
+<!--  ******************************* LJUBLJANA ****************************************** -->	
+<!--  ********************* Optične povezave ************************************ -->
+	<line typ="opt" globalLoc="lj" turn="L" curv="0.6" color="#FF0000" width="2" html="Optično vlakno Tehnološki park Ljubljana - IJS">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>		
+	<line typ="opt" globalLoc="lj" turn="L" curv="0.7" color="#FF0000" width="2" html="Optično vlakno Tehnološki park Ljubljana - IJS">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="L" curv="0.9" color="#FF0000" width="2" html="Optično vlakno Tehnološki park Ljubljana - IJS">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>		
+	<line typ="opt" globalLoc="lj" turn="L" curv="1.0" color="#FF0000" width="2" html="Optično vlakno Tehnološki park Ljubljana - IJS">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.7" color="#FF0000" width="2" html="Optično vlakno IJS - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.8" color="#FF0000" width="2" html="Optično vlakno IJS - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1.0" color="#FF0000" width="2" html="Optično vlakno IJS - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1.1" color="#FF0000" width="2" html="Optično vlakno IJS - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1.3" color="#FF0000" width="2" html="Optično vlakno IJS - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1.4" color="#FF0000" width="2" html="Optično vlakno IJS - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="L" curv="0.5" color="#FF0000" width="2" html="Optično vlakno IJS - Šolski center Ljubljana">
+		<point id="lj-ijs"/>
+		<point id="lj-scl"/>
+	</line>		
+	<line typ="opt" globalLoc="lj" turn="L" curv="1" color="#FF0000" width="2" html="Optično vlakno IJS - Šolski center Ljubljana">
+		<point id="lj-ijs"/>
+		<point id="lj-scl"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="L" curv="0.5" color="#FF0000" width="2" html="Šolski center Ljubljana - Telekom Slovenije, Cigaletova 10">
+		<point id="lj-scl"/>
+		<point id="lj-sipax"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="L" curv="0.9" color="#FF0000" width="2" html="Šolski center Ljubljana - Telekom Slovenije, Cigaletova 10">
+		<point id="lj-scl"/>
+		<point id="lj-sipax"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optično vlakno IJS - Telekom Slovenije, Cigaletova 10">
+		<point id="lj-ijs"/>
+		<point id="lj-mju"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optično vlakno IJS - Telekom Slovenije, Cigaletova 10">
+		<point id="lj-ijs"/>
+		<point id="lj-mju"/>
+	</line>	
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.8" color="#FF0000" width="2" html="Optično vlakno IJS - Telekom Slovenije, Cigaletova 10">
+		<point id="lj-mju"/>
+		<point id="lj-sipax"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optično vlakno IJS - Telekom Slovenije, Cigaletova 10">
+		<point id="lj-mju"/>
+		<point id="lj-sipax"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optično vlakno Telekom Slovenije, Cigaletova 10 - Ministrstvo za izobraževanje, znanost in šport">
+		<point id="lj-sipax"/>
+		<point id="lj-mss"/>
+	</line>		
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.9" color="#FF0000" width="2" html="Optično vlakno Telekom Slovenije, Cigaletova 10 - Ministrstvo za izobraževanje, znanost in šport">
+		<point id="lj-sipax"/>
+		<point id="lj-mss"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optično vlakno Ministrstvo za izobraževanje, znanost in šport - Zavod RS za šolstvo">
+		<point id="lj-mss"/>
+		<point id="lj-zss"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optično vlakno Ministrstvo za izobraževanje, znanost in šport - Zavod RS za šolstvo">
+		<point id="lj-mss"/>
+		<point id="lj-zss"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="0.5" color="#FF0000" width="2" html="Optično vlakno Zavod RS za šolstvo - Univerzitetni klinični center">
+		<point id="lj-zss"/>
+		<point id="lj-kc"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1" color="#FF0000" width="2" html="Optično vlakno Zavod RS za šolstvo - Univerzitetni klinični center">
+		<point id="lj-zss"/>
+		<point id="lj-kc"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="3" color="#FF0000" width="2" html="Optično vlakno Univerzitetni klinični center - Arnes, Dunajska 104">
+		<point id="lj-kc"/>
+		<point id="lj-icpe"/>
+	</line>	
+	<line typ="opt" globalLoc="lj" turn="R" curv="3.5" color="#FF0000" width="2" html="Optično vlakno Univerzitetni klinični center - Arnes, Dunajska 104">
+		<point id="lj-kc"/>
+		<point id="lj-icpe"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1.5" color="#FF0000" width="2" html="Optično vlakno Arnes, Dunajska 104 - Mestna knjižnica Ljubljana, enota knjižnica Šiška">
+		<point id="lj-icpe"/>
+		<point id="lj-ks"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="1.8" color="#FF0000" width="2" html="Optično vlakno Mestna knjižnica Ljubljana, enota knjižnica Šiška - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ks"/>
+	</line>	
+	<line typ="opt" globalLoc="lj" turn="R" curv="2.5" color="#FF0000" width="2" html="Optično vlakno Mestna knjižnica Ljubljana, enota knjižnica Šiška - Tehnološki park Ljubljana">
+		<point id="lj-ks"/>
+		<point id="lj-tplj"/>
+	</line>
+	<line typ="opt" globalLoc="lj" turn="R" curv="2.0" color="#FF0000" width="2" html="Optično vlakno Arnes, Dunajska 104 - Mestna knjižnica Ljubljana, enota knjižnica Šiška">
+		<point id="lj-ks"/>
+		<point id="lj-icpe"/>
+	</line>	
+	
+<!--  ****************************** Ljubljana ******************************************* -->	
+<!--  ********************* Vzpostavljene povezave ************************************ -->
+	<line typ="vzp" globalLoc="lj" turn="R" curv="2.5" color="#485E88" width="5" html="10 Gb/s povezava Arnes, Dunajska 104 - Mestna knjižnica, enota knjižnica Šiška">
+		<point id="lj-icpe"/>
+		<point id="lj-ks"/>
+	</line>
+	<line typ="vzp" globalLoc="lj" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Mestna knjižnica, enota knjižnica Šiška - Tehnološki park Ljubljana">
+		<point id="lj-ks"/>
+		<point id="lj-tplj"/>
+	</line>
+	<line typ="vzp" globalLoc="lj" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Univerzitetni klinični center - Arnes, Dunajska 104">
+		<point id="lj-kc"/>
+		<point id="lj-icpe"/>
+	</line>	
+	<line typ="vzp" globalLoc="lj" turn="R" curv="0" color="#485E88" width="5" html="10 Gb/s povezava Univerzitetni klinični center - Zavod RS za šolstvo">
+		<point id="lj-kc"/>
+		<point id="lj-zss"/>
+	</line>		
+	<line typ="vzp" globalLoc="lj" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Zavod RS za šolstvo - Ministrstvo za izobraževanje, znanost in šport">
+		<point id="lj-zss"/>
+		<point id="lj-mss"/>
+	</line>	
+	<line typ="vzp" globalLoc="lj" turn="R" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Ministrstvo za izobraževanje, znanost in šport - Telekom Slovenije (Cigaletova 10)">
+		<point id="lj-mss"/>
+		<point id="lj-sipax"/>
+	</line>	
+	<line typ="vzp" globalLoc="lj" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Telekom Slovenije (Cigaletova 10) - Šolski center Ljubljana">
+		<point id="lj-sipax"/>
+		<point id="lj-scl"/>
+	</line>			
+	<line typ="vzp" globalLoc="lj" turn="L" curv="1" color="#485E88" width="5" html="10 Gb/s povezava Šolski center Ljubljana - IJS">
+		<point id="lj-scl"/>
+		<point id="lj-ijs"/>
+	</line>	
+	<line typ="vzp" globalLoc="lj" turn="L" curv="2" color="#485E88" width="5" html="10 Gb/s povezava Telekom Slovenije (Cigaletova 10) - IJS">
+		<point id="lj-sipax"/>
+		<point id="lj-ijs"/>
+	</line>		
+	<line typ="vzp" globalLoc="lj" turn="R" curv="0.4" color="#007676" width="7" html="N x 10 Gb/s DWDM povezava IJS - Tehnološki park Ljubljana">
+		<point id="lj-tplj"/>
+		<point id="lj-ijs"/>
+	</line>							
+		<line typ="vzp" globalLoc="lj" turn="L" curv="0.2" color="#994C00" width="7" html="40 Gb/s povezava Tehnološki park Ljubljana - IJS">
+		<point id="lj-tplj"/> 
+		<point id="lj-ijs"/>
+	</line>
+	<line typ="vzp" globalLoc="lj" turn="R" curv="0.1" color="#FF8000" width="7" html="N x 100 Gb/s DWDM povezava Tehnološki park Ljubljana - IJS">
+	    <point id="lj-ijs"/>
+		<point id="lj-tplj"/>
+	</line>			
+																										
+<!--  **************************** MARIBOR ****************************************** -->	
+<!--  ********************* Optične povezave  ******************************* -->
+	<line typ="opt" globalLoc="mb" curv="1.7" turn="R" color="#FF0000" width="2" html="Optično vlakno IZUM - II. gimnazija Maribor">
+		<point id="mb-izum"/>
+		<point id="mb-gim"/>
+	</line>
+	<line typ="opt" globalLoc="mb" curv="1.5" turn="R" color="#FF0000" width="2" html="Optično vlakno IZUM - II. gimnazija Maribor">
+		<point id="mb-izum"/>
+		<point id="mb-gim"/>
+	</line>
+		<line typ="opt" globalLoc="mb" curv="8" turn="L" color="#FF0000" width="2" html="Optično vlakno II. gimnazija Maribor - IZUM">
+		<point id="mb-izum"/>
+		<point id="mb-gim"/>
+	</line>
+			<line typ="opt" globalLoc="mb" curv="8.2" turn="L" color="#FF0000" width="2" html="Optično vlakno II. gimnazija Maribor - IZUM">
+		<point id="mb-izum"/>
+		<point id="mb-gim"/>
+	</line>
+<!--  ******************************* Maribor ******************************************** -->	
+<!--  ********************* Vzpostavljene povezave (hitrost)************************************ -->
+	<line typ="vzp" globalLoc="mb" curv="2" turn="R" color="#00AEEF" width="2" html="1 Gb/s povezava IZUM - II. gimnazija Maribor">
+		<point id="mb-izum"/>
+		<point id="mb-gim"/>
+	</line>
+	<line typ="vzp" globalLoc="mb" curv="8.5" turn="L" color="#485E88" width="5" html="10 Gb/s povezava II. gimnazija Maribor - IZUM">
+		<point id="mb-izum"/>
+		<point id="mb-gim"/>
+	</line>
+<!--  **************************** KRŠKO ******************************************** -->	
+<!--  ********************* Optične povezave ******************************* -->
+	<line typ="opt" globalLoc="kk" curv="1" turn="L" color="#FF0000" width="2" html="Optično vlakno Telekom Krško - Fakulteta za logistiko Krško">
+		<point id="kk-tk"/>
+		<point id="kk-fl"/>
+	</line>
+<!--  ********************************* Krško ********************************************* -->	
+<!--  ********************* Vzpostavljene povezave (hitrost)************************************ -->
+    <line typ="vzp" globalLoc="kk" curv="2" turn="L" color="#00AEEF" width="2" html="1 Gb/s povezava Telekom Krško - Fakulteta za logistiko Krško">
+ 		<point id="kk-tk"/>
+		<point id="kk-fl"/>
+	</line>	
+<!--  **************************** LAŠKO ******************************************** -->	
+<!--  ********************* Optične povezave ******************************* -->
+	<line typ="opt" globalLoc="las" curv="1" turn="L" color="#FF0000" width="2" html="Optično vlakno RTP Laško - Osnovna šola Primož Trubar Laško">
+		<point id="las-el"/>
+		<point id="las-os"/>
+	</line>	
+<!--  ********************************* Laško ********************************************* -->	
+<!--  ********************* Vzpostavljene povezave (hitrost)************************************ -->	
+	<line typ="vzp" globalLoc="las" curv="0.5" turn="R" color="#485E88" width="5" html="10 Gb/s povezava RTP Laško - Osnovna šola Primož Trubar Laško">
+		<point id="las-el"/>
+		<point id="las-os"/>
+	</line>
+	
+</markers>
